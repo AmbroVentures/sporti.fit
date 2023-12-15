@@ -20,7 +20,7 @@ author: Robert Ambrosini
 ###############################################
 
 navbar-links:
-  About Us: "aboutme"
+  About: "aboutme"
   Resources:
     - Beautiful Jekyll: "https://beautifuljekyll.com"
     - Learn markdown: "https://www.markdowntutorial.com/"
