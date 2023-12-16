@@ -21,9 +21,11 @@ author: Robert Ambrosini
 
 navbar-links:
   Acerca de: "pages/about"
-#  Clases: "pages/clases"
-#  Localidad: "pages/location"
-  More:
+  Clases: "pages/clases"
+  Precios: "pages/prices"
+  Localidad: "pages/location"
+  Más:
+    - FAQ: "pages/faq"
     - AmbroVentures: "https://ambro.ventures"
     - Beautiful Jekyll: "https://beautifuljekyll.com"
     - Learn markdown: "https://www.markdowntutorial.com/"

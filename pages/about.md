@@ -1,6 +1,6 @@
 ---
 layout: page
-title: About Us
+title: Acerca de
 subtitle: El método SPORTI de ciclismo al interior
 ---
 
