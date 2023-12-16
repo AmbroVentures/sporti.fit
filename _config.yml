@@ -20,11 +20,13 @@ author: Robert Ambrosini
 ###############################################
 
 navbar-links:
-  About: "aboutme"
-  Resources:
+  Acerca de: "pages/about"
+#  Clases: "pages/clases"
+#  Localidad: "pages/location"
+  More:
+    - AmbroVentures: "https://ambro.ventures"
     - Beautiful Jekyll: "https://beautifuljekyll.com"
     - Learn markdown: "https://www.markdowntutorial.com/"
-  AmbroVentures: "https://ambro.ventures"
 
 ################
 # --- Logo --- #
