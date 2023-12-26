@@ -20,8 +20,14 @@ author: Robert Ambrosini
 ###############################################
 
 navbar-links:
-  Acerca de: "pages/about"
-  Clases: "pages/clases"
+  Acerca de: 
+    - Sporti: "pages/about"
+    - Entrenadores: "pages/trainers"
+  Clases:
+    - Video Clases: "pages/clases/video"
+    - Horario de Clases Presenciales: "pages/clases/presenciales"
+    - Entrenamiento a Distancia: "pages/clases/entrenamiento"
+    - Nutricion: pages/clases/nutricion"
   Precios: "pages/prices"
   Localidad: "pages/location"
   Más:
