@@ -21,7 +21,10 @@ Master Instructor y Power Specialist para Biking®Program por la fderacion itali
 
 EXPERIENCIA LABORAL 
 Universidad de Zürich  Fitness Instructor en Body Form Rudolfstetten, TC St. Gallen, Nord Fit Zürich, Fitness Point Wettingen. (1995 a 2002)  Empresario be.project S.L representante del programa Spinning® en Suiza (2002 a 2004)  Director técnico del programa Spinning® en España Barcelona (2004 a 2006)  Coordinador Spinning® Body Factory, Fitness & Life Málaga (2006 a 2010)  Gerente Fibra Gimnasio (2010 a 2014)  Empresario be.project S.L (2004 a actual)  In-Trinity® España 2015  27 Dragon Cycling Box, EMS X-Body® Studio y In-Trinity® Boutique Málaga (2016 a 2018) 
+
 Sport Club Reserva del Higuerón Resort Fuengirola (2014 a Actual)
+
+GOREWEAR Product Specialist (2022 a Actual)
 
 Sporti The Club CEO (2023 a Actual)
 
