@@ -18,10 +18,10 @@ Clases realizadas por potencia con bicicleta especiales las  [Spinner® Chrono�
 
 Utilizamos la aplicación Spark de SelfLoops para el registro. Para poder registrarse en la aplicación, primero debe [suscribirse con nosotros](#Precio).
 
-Descárgate la app ahora y regístrate. ¿Ya está inscrito? Apúntate a una clase ahora :muscle: :bike:
+Descárgate la app ahora y regístrate. ¿Ya está inscrito? Apúntate a una clase ahora 💪
 
 [![Consíguelo en el App Store]({{ '/assets/img/Download_on_the_App_Store_Badge_ES_RGB_blk_100217.svg' | relative_url }})](https://apps.apple.com/us/app/selfloops-spark/id1282997660?platform=iphone)
-<a href='https://play.google.com/store/apps/details?id=selfloops.com.sloopsgroupfitness&pcampaignid=pcampaignidMKT-Other-global-all-co-prtnr-py-PartBadge-Mar2515-1'><img alt='Disponible en Google Play' src='https://play.google.com/intl/en_us/badges/static/images/badges/es_badge_web_generic.png' height="40"/></a>
+<a href='https://play.google.com/store/apps/details?id=selfloops.com.sloopsgroupfitness&pcampaignid=pcampaignidMKT-Other-global-all-co-prtnr-py-PartBadge-Mar2515-1'><img alt='Disponible en Google Play' src='https://play.google.com/intl/en_us/badges/static/images/badges/es_badge_web_generic.png' height="50"/></a>
 
 
 
