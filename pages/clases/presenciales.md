@@ -73,7 +73,7 @@ Estos atletas tienen tipicamente un gran porcentaje de fibras musculares de cont
 
 ### Suscripción y Precio
 
-Un abono con nosotros le da derecho a asistir a 3 sesiones de formación por semana.
+La cuota mensual da derecho a participar en 3 clases semanales.
 
 [![Regístrate ahora](https://dabuttonfactory.com/button.png?t=Reg%C3%ADstrate+ahora&f=Open+Sans-Bold&ts=26&tc=fff&hp=45&vp=20&c=11&bgt=unicolored&bgc=8694ff)](mailto:robbiebike@gmx.ch?subject=Suscripci%C3%B3n%20Clases%20Presencialses%20de%20Sporti&body=Me%20gustar%C3%ADa%20inscribirme%20en%20las%20clases%20presenciales.%0A%0APor%20favor%2C%20facil%C3%ADtenme%20m%C3%A1s%20instrucciones.%0A%0AUn%20cordial%20saludo)
 
