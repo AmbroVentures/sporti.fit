@@ -8,6 +8,26 @@ share-img: /assets/img/path.jpg
 tags: [SPORTI]
 author: Robert Ambrosini
 ---
+Quizás el error más común que he visto cometer a muchos deportistas aficionados y fitness a lo largo de muchos años es entrenar sin conciencia de lo que estás haciendo, por qué lo haces y por qué lo haces, y lo peor de todo es la falta de interés por encuentra estas respuestas.
+
+Creo que lo que distingue a un deportista aficionado o fitness que está progresando bien de otro que está estancado no es sólo la falta de objetivos claros y alcanzables, sino también la forma de implementarlos de manera correcta y eficiente, y sobre todo la conciencia de que lo está haciendo. él.
+
+He visto muchos casos de atletas que entrenan a ojo, que carecen de estructura, que están mal alimentados y que aún luchan por los primeros lugares en las carreras pero nunca logran consistencia en sus actuaciones, un día suben al podio, al otro día que no terminan la carrera, etc.
+
+
+Me pregunto qué pasaría si supiera todo lo que hay que saber sobre entrenamiento, nutrición y descanso, o mejor aún, si también tuviera un guía llamado entrenador, coach o profesor.
+
+¿Y por qué es importante para un deportista amateur y fitness esta información que muchos de ellos simplemente quieren delegar en sus entrenadores y que consideran innecesario aprender?
+
+Primero, si no tienes entrenador por algún motivo, ya sea económico, disponibilidad, tiempo, etc. Pues incluso deberías saberlo, y más si tienes pensado asistir a eventos más o menos importantes.
+
+En segundo lugar, si eres uno de los afortunados que tiene uno, debes conocer esta información crucial para sintonizarte y hablar el mismo idioma que el entrenador. Haciendo una analogía entre aprendiz y maestro:
+
+Al principio el aprendiz completa las tareas mecánicamente, sin saber cómo ni por qué, pero en algún momento llega un punto de inflexión cuando uno de los pocos aprendices que no llega a ser maestro, a base de preguntas y experiencias, es decir, del tiempo, explica el motivo. por tal o cual blanco. Luego lo pone en práctica y consigue iguales o mejores resultados que el profesor.
+
+Asimismo, cuando el deportista comienza a entrenar con un entrenador intenta seguir todo al pie de la letra, pero sin saber por qué y por qué, muy pocos empiezan a buscar respuestas en el método y cuando las encuentran crean Conciencia y empiezan a ver resultados.
+
+Quizás ese sea el secreto de SPORTI, ¿qué opinas?
 
 En la actualidad, la mejora de la composición corporal, en términos de reducir el porcentaje de grasa y aumentar la masa muscular, es un objetivo común para muchas personas. Además, mejorar el rendimiento en el ciclismo indoor se ha vuelto cada vez más popular. Una herramienta que combina ambos aspectos es el entrenamiento de ciclismo al interior con SPORTI. Este ensayo explorará cómo este tipo de entrenamiento puede ayudar a mejorar la composición corporal y los w/kg (vatios por kilogramo) en los ciclistas indoor.
 
