@@ -57,17 +57,17 @@ social-network-links:
   email: "robbiebike@gmx.ch"
   facebook: robert.ambrosini
   linkedin: robbieambrosini
-#  telephone: +14159998888
+  telephone: +34667205965
 #  github: AmbroVentures
 #  twitter: daattali
 #  patreon: DeanAttali
-#  youtube: c/daattali
+  youtube: c/RobbieAmbrosini
 #  medium: yourname
 #  reddit: yourname
 #  xing: yourname
 #  stackoverflow: "3943160/daattali"
 #  snapchat: deanat78
-#  instagram: deanat78
+  instagram: sporti_es_por_ti
 #  spotify: yourname
 #  steam: deanat78
 #  twitch: yourname
@@ -132,14 +132,14 @@ navbar-var-length: false
 
 # Personalize the colours in your website. Colour values can be any valid CSS colour
 
-navbar-col: "#2743fe"
+navbar-col: "#02203c"
 navbar-text-col: "#FFFFFF"
 navbar-border-col: "#DDDDDD"
 page-col: "#FFFFFF"
 text-col: "#404040"
 link-col: "#008AFF"
 hover-col: "#0085A1"
-footer-col: "#2743fe"
+footer-col: "#02203c"
 footer-text-col: "#FFFFFF"
 footer-link-col: "#8694ff"
 footer-hover-col: "#0085A1"
