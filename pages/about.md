@@ -4,7 +4,7 @@ title: Acerca de
 subtitle: El método SPORTI de ciclismo al interior
 ---
 
-Bienvenidos y bienvenidas a nuestro programa de entrenamiento basado en la ciencia del ciclismo SPORTI. Si estás buscando mejorar tu rendimiento en el ciclismo y aprovechar los beneficios de entrenar en interiores, estás en el lugar correcto. En este ensayo, exploraremos cómo el método SPORTI de ciclismo al interior basado en la ciencia puede ayudarte a alcanzar tus metas y mejorar en el deporte que tanto amas.
+Bienvenidos a nuestro programa de entrenamiento basado en la ciencia del ciclismo SPORTI. Si estás buscando mejorar tu rendimiento en el ciclismo y aprovechar los beneficios de entrenar en interiores, estás en el lugar correcto. En este ensayo, exploraremos cómo el método SPORTI de ciclismo al interior basado en la ciencia puede ayudarte a alcanzar tus metas y mejorar en el deporte que tanto amas.
 
 ### Desarrollo
 
