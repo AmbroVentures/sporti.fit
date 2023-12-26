@@ -8,7 +8,7 @@ share-img: /assets/img/path.jpg
 tags: [SPORTI]
 author: Robert Ambrosini
 ---
-Quizás el error más común que he visto cometer a muchos deportistas aficionados y fitness a lo largo de muchos años es entrenar sin conciencia de lo que estás haciendo, por qué lo haces y por qué lo haces, y lo peor de todo es la falta de interés por encuentra estas respuestas.
+Quizás el error más común que he visto cometer a muchos deportistas aficionados y fitness a lo largo de muchos años es entrenar sin conciencia de lo que estás haciendo, por qué lo haces y para qué lo haces, y lo peor de todo es la falta de interés en encontrar esas respuestas.
 
 Creo que lo que distingue a un deportista aficionado o fitness que está progresando bien de otro que está estancado no es sólo la falta de objetivos claros y alcanzables, sino también la forma de implementarlos de manera correcta y eficiente, y sobre todo la conciencia de que lo está haciendo. él.
 
