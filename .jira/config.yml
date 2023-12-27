@@ -1,0 +1,9 @@
+deployments:
+  environmentMapping:
+    development:
+      - "dev-*"
+    testing:
+      - "tst-*"
+    production:
+      - "prd-*"
+      - "github-pages"
