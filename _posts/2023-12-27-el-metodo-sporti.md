@@ -23,10 +23,9 @@ Primero, si no tienes entrenador por algún motivo, ya sea económico, disponibi
 
 En segundo lugar, si eres uno de los afortunados que tiene uno, debes conocer esta información crucial para sintonizarte y hablar el mismo idioma que el entrenador. Haciendo una analogía entre aprendiz y maestro:
 
-Al principio el aprendiz completa las tareas mecánicamente, sin saber cómo ni por qué, pero en algún momento llega un punto de inflexión cuando uno de los pocos aprendices que no llega a ser maestro, a base de preguntas y experiencias, es decir, del tiempo, explica el motivo. por tal o cual blanco. Luego lo pone en práctica y consigue iguales o mejores resultados que el profesor.
+Al principio el aprendiz hace mecánicamente las tareas sin saber porqué y para que, pero llega un punto de inflexión en que alguno de esos pocos aprendices sin llegar a ser un maestro sabe el porque de esto o aquello, a base de preguntas y experiencia,  en otras palabras tiempo. Luego lo pone en práctica llegando a tener iguales o mejores resultados que el maestro.
 
-Asimismo, cuando el deportista comienza a entrenar con un entrenador intenta seguir todo al pie de la letra, pero sin saber por qué y por qué, muy pocos empiezan a buscar respuestas en el método y cuando las encuentran crean Conciencia y empiezan a ver resultados.
-
+Así mismo el atleta al iniciarse en el entrenamiento con un entrenador, trata de seguir todo al pie de la letra, pero sin saber por qué y para que, muy pocos comienzan a buscar respuesta en el método y cuando las encuentran, crean conciencia y comienzan a verse resultados.
 Quizás ese sea el secreto de SPORTI, ¿qué opinas?
 
 En la actualidad, la mejora de la composición corporal, en términos de reducir el porcentaje de grasa y aumentar la masa muscular, es un objetivo común para muchas personas. Además, mejorar el rendimiento en el ciclismo indoor se ha vuelto cada vez más popular. Una herramienta que combina ambos aspectos es el entrenamiento de ciclismo al interior con SPORTI. Este ensayo explorará cómo este tipo de entrenamiento puede ayudar a mejorar la composición corporal y los w/kg (vatios por kilogramo) en los ciclistas indoor.
