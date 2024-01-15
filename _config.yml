@@ -26,15 +26,15 @@ navbar-links:
   Clases:
     - Video Clases: "pages/clases/video"
     - Horario de Clases Presenciales: "pages/clases/presenciales"
-    - Entrenamiento a Distancia: "pages/clases/entrenamiento"
-    - Nutricion: pages/clases/nutricion"
-  Precios: "pages/prices"
+#    - Entrenamiento a Distancia: "pages/clases/entrenamiento"
+#    - Nutricion: "pages/clases/nutricion"
+#  Precios: "pages/prices"
   Localidad: "pages/location"
   Más:
-    - FAQ: "pages/faq"
     - AmbroVentures: "https://ambro.ventures"
-    - Beautiful Jekyll: "https://beautifuljekyll.com"
-    - Learn markdown: "https://www.markdowntutorial.com/"
+#    - FAQ: "pages/faq"
+#    - Beautiful Jekyll: "https://beautifuljekyll.com"
+#    - Learn markdown: "https://www.markdowntutorial.com/"
 
 ################
 # --- Logo --- #
