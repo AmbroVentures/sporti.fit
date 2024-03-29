@@ -154,6 +154,8 @@ footer-text-col: "#FFFFFF"
 footer-link-col: "#8694ff"
 footer-hover-col: "#0085A1"
 
+body-font-family: ['Ebrima', 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif] # originally: 'Lora', 'Times New Roman', serif;
+
 # Alternatively, the navbar, footer, and page background can be set to an image
 # instead of colour
 
