@@ -30,12 +30,14 @@ Tras registrarte, te enviaremos tus datos de acceso a la aplicación [Spark de S
 
 ## Clases Presenciales
 
-#### La Estructura de nuestras Clases
+<details>
+  <summary>La Estructura de nuestras Clases</summary>
 Comenzamos con un calentamiento adecuado para cada clase, estructurado según el objetivo FTP (Functional Threshold Power). Una parte central, estructurada para cada objetivo diferente que queremos alcanzar en una progresión, teniendo en cuenta la carga y los tiempos de descanso. Una vuelta a la calma y estiramientos adecuados.
 
 Lo primero que debemos hacer para extrapolar los datos es identificar nuestro FTP (Functional Treshold Power) o lo que es igual el Umbral de Potencia Funcional, 
 
 En la primera semana que practicamos las clases, podemos definir nuestra curva de potencia y obtener una base inicial para las siguientes pruebas que realizamos: la prueba de VO2máx, la prueba de FTP, la prueba de pico máximo y la prueba de pico submáximo. Esta seria de prubas nos daran una primera idea de nuestro estado fisico y nos categoriza en uno de los siguentes fenotipos  Sprinter, Preseguidor, Todo terreno o contrarelojista.
+</details>
 
 #### Niveles de Entrenamiento
 El entrenamiento necesita de la relación entre el tiempo y el cansancio, y esta se puede dividir en cuatro grupos de acuerdo con el metabolismo dominante, que suministra energía a los músculos:
