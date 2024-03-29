@@ -4,6 +4,8 @@ title: Localidad
 subtitle: ¡¡Pedalea con nosotros!!
 ---
 
+{% include social-networks-links.html %}
+
 ### Sporti The Club by Saúl GYM
 **Dirección:**  
 Saúl Gym,  
