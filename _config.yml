@@ -26,14 +26,13 @@ navbar-links:
   Clases:
     - Clases Presenciales: "pages/clases/presenciales"
     - Video Clases: "pages/clases/video"
-#    - Entrenamiento a Distancia: "pages/clases/entrenamiento"
+#    - Entrenamiento a Distancia: "pages/clases/distancia"
 #    - Nutricion: "pages/clases/nutricion"
-#  Precios: "pages/prices"
   Localidad: "pages/location"
 #  Impresiones:
 #    - Classes:
 #    - Eventos: # y Formaciones
-#    - 
+#    - El Gym: 
   Más:
     - AmbroVentures: "https://ambro.ventures"
 #    - FAQ: "pages/faq"
