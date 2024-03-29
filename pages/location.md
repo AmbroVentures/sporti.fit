@@ -16,96 +16,88 @@ En Sporti, estamos orgullosos de estar situados dentro de las instalaciones de [
 #### Mapa
 <iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d12802.377184792325!2d-4.4930658!3d36.6602096!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0xd72fa33d7ca3445%3A0x87528011e1a3825a!2sSaul%20Fitness%20Gym!5e0!3m2!1sen!2sch!4v1704313350398!5m2!1sen!2sch" style="text-align:center;" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy"></iframe>
 
-#### Cómo Llegar
+### Cómo Llegar
 
-**TODO:** Autobús
-Hotel CervantesTorremolinos, España
+**Todas las direcciones:** 
 
-21min en autobús Cada hora
+#### Autobús
+Hotel Cervantes Torremolinos, España
+21 min. en autobús Cada hora
 M-123
 1–3 €
-Churriana Gasolinera BPMálaga
+Churriana Gasolinera BP Málaga
+1 min. caminando (40 metros)
+32 Carretera Coín, 32, Málaga, España
+Torremolinos, España
 
-1min caminando (40 metros)
-32 Carretera CoínCarretera Coín, 32, Málaga, España
-TorremolinosTorremolinos, España
-
-Taxi
-
-TorremolinosTorremolinos, España
-6min5.9 km
-32 Carretera CoínCarretera Coín, 32, Málaga, España
+#### Taxi
+Torremolinos, España
+6 min. 5.9 km
+32 Carretera Coín, 32, Málaga, España
 
 
-Tren
-
-Estación de tren TorremolinosTorremolinos, España
-
-7min en tren Cada 30 minutos
+#### Tren
+Estación de tren Torremolinos, España
+7 min. en tren Cada 30 minutos
 C1
 1–2 €
-Estación de tren Plza.mayorMálaga
+Estación de tren Plza. Mayor, Málaga
 Cambiar / Transferir
-Plza.mayorMálaga
-
-2min en autobús Muy solicitado
+Plza. Mayor Málaga
+2 min. en autobús Muy solicitado
 M-136
 Gasolinera BP Málaga
+2 min. caminando (140 metros)
+32 Carretera Coín, 32, Málaga, España
 
-2min caminando (140 metros)
-32 Carretera CoínCarretera Coín, 32, Málaga, España
 
-
-Andar
-
-TorremolinosTorremolinos, España
-1h 4min5.3 km
-32 Carretera CoínCarretera Coín, 32, Málaga, España
+#### Andar
+Torremolinos, España
+1h 4 min. 5.3 km
+32 Carretera Coín, 32, Málaga, España
 5 maneras de viajar de Málaga a 32 Carretera Coín
-Autobús
-Málaga Terminal Muelle HerediaMálaga, España
-20min
-Detalles
-Cruce ChurrianaMálaga
-11min Andar
-32 Carretera CoínCtra. Coín, 32, Churriana, 29140 Málaga, España
 
+#### Autobús
+Málaga Terminal Muelle Heredia Málaga, España
+20 min.
+Detalles
+Cruce Churriana Málaga
+11 min. Andar
+32 Carretera Coín, 32, Churriana, 29140 Málaga, España
 2–3 €
 
-Tren
+#### Tren
 Estación de tren Malaga Centro Alameda Málaga, España
-
-15min en tren Cada 30 minutos
+15 min. en tren Cada 30 minutos
 C1
 1–3 €
-Estación de tren Plza.mayorMálaga
-
-22min caminando (1.8 km)
-32 Carretera CoínCtra. Coín, 32, Churriana, 29140 Málaga, España
-37min
+Estación de tren Plza. Mayor Málaga
+22 min. caminando (1.8 km)
+32 Carretera Coín, 32, Churriana, 29140 Málaga, España
+37 min.
 1–3 €
 
-Taxi
-MálagaMálaga, España
-14min12.7 km
-32 Carretera CoínCtra. Coín, 32, Churriana, 29140 Málaga, España
-14min
+#### Taxi
+Málaga, España
+14 min. 12.7 km
+32 Carretera Coín, 32, Churriana, 29140 Málaga, España
+14 min.
 30–40 €
 
-Autobús vía Muelle Heredia
-Málaga Terminal Muelle HerediaMálaga, España
+#### Autobús vía Muelle Heredia
+Málaga Terminal Muelle Heredia Málaga, España
 20min
 Detalles
-Cruce ChurrianaMálaga
-11min Andar
-32 Carretera CoínCtra. Coín, 32, Churriana, 29140 Málaga, España
-29min
+Cruce Churriana Málaga
+11 min. Andar
+32 Carretera Coín, 32, Churriana, 29140 Málaga, España
+29 min.
 2–3 €
 
-En coche 12.7 km
-MálagaMálaga, España
-14min12.7 km
-32 Carretera CoínCtra. Coín, 32, Churriana, 29140 Málaga, España
-14min
+#### En coche 12.7 km
+Málaga, España
+14 min. 12.7 km
+32 Carretera Coín, 32, Churriana, 29140 Málaga, España
+14 min.
 3–4 €
 {: .box-note}
