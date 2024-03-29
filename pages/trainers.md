@@ -4,7 +4,8 @@ title: Acerca de
 subtitle: Los Entrenadores
 ---
 
-# ROBBIE AMBROSINI 
+# ROBBIE AMBROSINI
+![Robbie]({{ 'assets/img/entrenador-robbie.jpg' | relative_url }})
 CEO de Sporti The Club Málaga, Biking® Master Instructor & Power Specialist Master Instructor para el programa BikingPOWER® de FIB&FIT Italy
 
 EX-Master Instructor & Power Specialist Master Instructor para el programa Spinning® y SPINPower® Inc. Venice California, EE.UU.In-Trinity® Master Instructor y In-Trinity® Director de Operaciones en Europa de Johnny G Method Santa Barbara California, EE.UU. Embajador de SelfLoops Italia.Empresario, Entrenador Personal, Barefoot Running Coach, X-Body EMS Master y Instructor de Yoga y Wing Chun Kung Fu. 
