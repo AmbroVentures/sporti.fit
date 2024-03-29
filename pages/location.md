@@ -18,8 +18,6 @@ En Sporti, estamos orgullosos de estar situados dentro de las instalaciones de [
 
 ### Cómo Llegar
 
-**Todas las direcciones:** 
-
 #### Autobús
 Hotel Cervantes Torremolinos, España
 21 min. en autobús Cada hora
@@ -31,8 +29,8 @@ Churriana Gasolinera BP Málaga
 Torremolinos, España
 
 #### Taxi
-Torremolinos, España
-6 min. 5.9 km
+Torremolinos, España  
+6 min. 5.9 km  
 32 Carretera Coín, 32, Málaga, España
 
 
@@ -100,4 +98,3 @@ Málaga, España
 32 Carretera Coín, 32, Churriana, 29140 Málaga, España
 14 min.
 3–4 €
-{: .box-note}
