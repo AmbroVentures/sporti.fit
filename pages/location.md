@@ -22,11 +22,12 @@ En Sporti, estamos orgullosos de estar situados dentro de las instalaciones de [
 
 <details>
   <summary>Autobús</summary>
-Hotel Cervantes Torremolinos, España  
-21 min. en autobús Cada hora M-123
-1–3 €  
-Churriana Gasolinera BP Málaga  
-1 min. caminando (40 metros)  
+    <b>Deste</b> Hotel Cervantes Torremolinos, España  <br>
+    21 min. en autobús Cada hora M-123 <br>
+    1–3 €  <br>
+
+    <b>Hasta</b> Churriana Gasolinera BP Málaga  <br>
+    1 min. caminando (40 metros)  <br>
 </details>
 
 #### Taxi
