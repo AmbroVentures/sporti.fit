@@ -18,12 +18,16 @@ En Sporti, estamos orgullosos de estar situados dentro de las instalaciones de [
 
 ### Cómo Llegar
 
-#### Autobús
+#### Desde Torremolinos
+
+<details>
+  <summary>Autobús</summary>
 Hotel Cervantes Torremolinos, España  
 21 min. en autobús Cada hora M-123
 1–3 €  
 Churriana Gasolinera BP Málaga  
 1 min. caminando (40 metros)  
+</details>
 
 #### Taxi
 Torremolinos, España  
@@ -48,7 +52,8 @@ Torremolinos, España
 1h 4 min. 5.3 km  
 32 Carretera Coín, 32, Málaga, España  
 
-5 maneras de viajar de Málaga a 32 Carretera Coín  
+#### Desde Málaga
+5 maneras de viajar de Málaga a 32 Carretera Coín
 
 #### Autobús
 Málaga Terminal Muelle Heredia Málaga, España  
