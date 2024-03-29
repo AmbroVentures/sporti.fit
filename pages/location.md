@@ -43,7 +43,8 @@ En Sporti, estamos orgullosos de estar situados dentro de las instalaciones de [
     <br>
     Autobús M-136 <br>
     2 min <br>
-    Gasolinera BP Málaga <br>
+    <br>
+    <b>Hasta</b> Gasolinera BP Málaga <br>
     2 min. caminando (140 metros)<br>
     <br>
 </details>
@@ -84,10 +85,10 @@ En Sporti, estamos orgullosos de estar situados dentro de las instalaciones de [
     1–3 €<br>
     <br>
     <b>Cambiar / Transferir</b> Estación de tren Plza. Mayor, Málaga  <br>
-    <br>
     Autobús M-136 <br>
     2 min <br>
-    Gasolinera BP Málaga <br>
+    <br>
+    <b>Hasta</b> Gasolinera BP Málaga <br>
     2 min. caminando (140 metros)<br>
     <br>
 </details>
