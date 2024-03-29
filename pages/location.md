@@ -42,6 +42,7 @@ subtitle: ¡¡Pedalea con nosotros!!
    </a>
   </li>
  </ul> 
+ <br>
 
 ### Sporti The Club by Saúl GYM
 **Dirección:**  
