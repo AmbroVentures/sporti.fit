@@ -28,7 +28,8 @@ En Sporti, estamos orgullosos de estar situados dentro de las instalaciones de [
     1–3 €<br>
     <br>
     <b>Hasta</b> Churriana Gasolinera BP Málaga  <br>
-    1 min. caminando (40 metros)
+    1 min. caminando (40 metros)<br>
+    <br>
 </details>
 
 <details>
@@ -43,19 +44,22 @@ En Sporti, estamos orgullosos de estar situados dentro de las instalaciones de [
     Autobús M-136 <br>
     2 min <br>
     Gasolinera BP Málaga <br>
-    2 min. caminando (140 metros)
+    2 min. caminando (140 metros)<br>
+    <br>
 </details>
 
 <details>
   <summary>Taxi</summary>
     5.9 km <br>
-    6 min
+    6 min<br>
+    <br>
 </details>
 
 <details>
   <summary>Andar</summary>
     1h 4min <br>
-    5.3 km  
+    5.3 km  <br>
+    <br>
 </details>
 
 #### Desde Málaga
@@ -68,7 +72,8 @@ En Sporti, estamos orgullosos de estar situados dentro de las instalaciones de [
     2-3 €<br>
     <br>
     <b>Hasta</b> Cruce Churriana Málaga <br>
-    11 min. caminando
+    11 min. caminando<br>
+    <br>
 </details>
 
 <details>
@@ -83,12 +88,14 @@ En Sporti, estamos orgullosos de estar situados dentro de las instalaciones de [
     Autobús M-136 <br>
     2 min <br>
     Gasolinera BP Málaga <br>
-    2 min. caminando (140 metros)
+    2 min. caminando (140 metros)<br>
+    <br>
 </details>
 
 <details>
   <summary>Taxi</summary>
     12.7 km <br>
-    14 min
-    30–40 €
+    14 min<br>
+    30–40 €<br>
+    <br>
 </details>
