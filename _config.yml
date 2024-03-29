@@ -24,12 +24,16 @@ navbar-links:
     - Sporti: "pages/about"
     - Entrenadores: "pages/trainers"
   Clases:
+    - Clases Presenciales: "pages/clases/presenciales"
     - Video Clases: "pages/clases/video"
-    - Horario de Clases Presenciales: "pages/clases/presenciales"
 #    - Entrenamiento a Distancia: "pages/clases/entrenamiento"
 #    - Nutricion: "pages/clases/nutricion"
 #  Precios: "pages/prices"
   Localidad: "pages/location"
+#  Impresiones:
+#    - Classes:
+#    - Eventos: # y Formaciones
+#    - 
   Más:
     - AmbroVentures: "https://ambro.ventures"
 #    - FAQ: "pages/faq"
