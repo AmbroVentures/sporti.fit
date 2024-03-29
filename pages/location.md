@@ -1,10 +1,10 @@
 ---
 layout: page
 title: Localidad
-subtitle: Bici con Nosotros
+subtitle: ¡¡Pedalea con nosotros!!
 ---
 
-### Sporti The Club by Saúl GTM
+### Sporti The Club by Saúl GYM
 **Dirección:**  
 Saúl Gym,  
 Carretera Coín 32,  
