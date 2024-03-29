@@ -4,7 +4,44 @@ title: Localidad
 subtitle: ¡¡Pedalea con nosotros!!
 ---
 
-{% include social-networks-links.html %}
+<ul class="list-inline text-center footer-links">
+  <li class="list-inline-item">
+    <a href="tel:{{ network[1] }}" title="Phone">
+      <span class="fa-stack fa-lg" aria-hidden="true">
+        <i class="fas fa-circle fa-stack-2x"></i>
+        <i class="fas fa-phone fa-stack-1x fa-inverse"></i>
+      </span>
+      <span class="sr-only">Phone</span>
+   </a>
+  </li>
+  <li class="list-inline-item">
+    <a href="mailto:{{ network[1] }}" title="Email me">
+      <span class="fa-stack fa-lg" aria-hidden="true">
+        <i class="fas fa-circle fa-stack-2x"></i>
+        <i class="fas fa-envelope fa-stack-1x fa-inverse"></i>
+      </span>
+      <span class="sr-only">Email me</span>
+   </a>
+  </li>
+  <li class="list-inline-item">
+    <a href="https://www.facebook.com/{{ network[1] }}" title="Facebook">
+      <span class="fa-stack fa-lg" aria-hidden="true">
+        <i class="fas fa-circle fa-stack-2x"></i>
+        <i class="fab fa-facebook fa-stack-1x fa-inverse"></i>
+      </span>
+      <span class="sr-only">Facebook</span>
+   </a>
+  </li>
+  <li class="list-inline-item">
+    <a href="https://www.instagram.com/{{ network[1] }}" title="Instagram">
+      <span class="fa-stack fa-lg" aria-hidden="true">
+        <i class="fas fa-circle fa-stack-2x"></i>
+        <i class="fab fa-instagram fa-stack-1x fa-inverse"></i>
+      </span>
+      <span class="sr-only">Instagram</span>
+   </a>
+  </li>
+ </ul> 
 
 ### Sporti The Club by Saúl GYM
 **Dirección:**  
