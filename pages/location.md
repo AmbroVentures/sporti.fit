@@ -18,5 +18,94 @@ En Sporti, estamos orgullosos de estar situados dentro de las instalaciones de [
 
 #### Cómo Llegar
 
-**TODO:** Proporciona una breve descripción de cómo acceder a tu gimnasio, ya sea en coche, transporte público, o a pie. Puedes incluir detalles como paradas de autobús cercanas, estacionamiento disponible, o puntos de referencia.
+**TODO:** Autobús
+Hotel CervantesTorremolinos, España
+
+21min en autobús Cada hora
+M-123
+1–3 €
+Churriana Gasolinera BPMálaga
+
+1min caminando (40 metros)
+32 Carretera CoínCarretera Coín, 32, Málaga, España
+TorremolinosTorremolinos, España
+
+Taxi
+
+TorremolinosTorremolinos, España
+6min5.9 km
+32 Carretera CoínCarretera Coín, 32, Málaga, España
+
+
+Tren
+
+Estación de tren TorremolinosTorremolinos, España
+
+7min en tren Cada 30 minutos
+C1
+1–2 €
+Estación de tren Plza.mayorMálaga
+Cambiar / Transferir
+Plza.mayorMálaga
+
+2min en autobús Muy solicitado
+M-136
+Gasolinera BP Málaga
+
+2min caminando (140 metros)
+32 Carretera CoínCarretera Coín, 32, Málaga, España
+
+
+Andar
+
+TorremolinosTorremolinos, España
+1h 4min5.3 km
+32 Carretera CoínCarretera Coín, 32, Málaga, España
+5 maneras de viajar de Málaga a 32 Carretera Coín
+Autobús
+Málaga Terminal Muelle HerediaMálaga, España
+20min
+Detalles
+Cruce ChurrianaMálaga
+11min Andar
+32 Carretera CoínCtra. Coín, 32, Churriana, 29140 Málaga, España
+
+2–3 €
+
+Tren
+Estación de tren Malaga Centro Alameda Málaga, España
+
+15min en tren Cada 30 minutos
+C1
+1–3 €
+Estación de tren Plza.mayorMálaga
+
+22min caminando (1.8 km)
+32 Carretera CoínCtra. Coín, 32, Churriana, 29140 Málaga, España
+37min
+1–3 €
+
+Taxi
+MálagaMálaga, España
+14min12.7 km
+32 Carretera CoínCtra. Coín, 32, Churriana, 29140 Málaga, España
+14min
+30–40 €
+
+Autobús vía Muelle Heredia
+Málaga Terminal Muelle HerediaMálaga, España
+20min
+Detalles
+Cruce ChurrianaMálaga
+11min Andar
+32 Carretera CoínCtra. Coín, 32, Churriana, 29140 Málaga, España
+29min
+2–3 €
+
+En coche 12.7 km
+MálagaMálaga, España
+14min12.7 km
+32 Carretera CoínCtra. Coín, 32, Churriana, 29140 Málaga, España
+14min
+3–4 €
 {: .box-note}
