@@ -4,9 +4,9 @@ title: Localidad
 subtitle: Bici con Nosotros
 ---
 
-### Gimnasio Sporti
+### Sporti The Club by Saúl GTM
 **Dirección:**  
-Saul Gym,  
+Saúl Gym,  
 Carretera Coín 32,  
 29140 Málaga,  
 España  
