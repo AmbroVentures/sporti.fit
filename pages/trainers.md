@@ -47,8 +47,16 @@ EX-Master Instructor & Power Specialist Master Instructor para el programa Spinn
       <span class="sr-only">Instagram</span>
    </a>
   </li>
+  <li class="list-inline-item">
+    <a href="https://linkedin.com/in/{{ network[1] }}" title="LinkedIn">
+      <span class="fa-stack fa-lg" aria-hidden="true">
+        <i class="fas fa-circle fa-stack-2x"></i>
+        <i class="fab fa-linkedin fa-stack-1x fa-inverse"></i>
+      </span>
+      <span class="sr-only">LinkedIn</span>
+   </a>
+  </li>
  </ul> 
- <br>
 
 ### Idiomas
 🇨🇭 🇩🇪 🇪🇸 🇮🇹 🇬🇧 🇫🇷 🇳🇱
@@ -72,20 +80,6 @@ Si respetas la evolución como especie, entrenas duro, con corazón, conocimient
 
 
 ## EXPERIENCIA LABORAL 
-| Period                |                                                                                        |
-|-----------------------|----------------------------------------------------------------------------------------|
-| 2023 a Actual         | Sporti The Club CEO                                                                    |
-| 2022 a Actual         | GOREWEAR Product Specialist                                                            |
-| 2014 a Actual         | Sport Club Reserva del Higuerón Resort Fuengirola                                      |
-| 2004 a Actual         | Empresario be.project S.L                                                              |
-| 2016 a 2018           | 27 Dragon Cycling Box, EMS X-Body® Studio y In-Trinity® Boutique Málaga                |
-| 2015                  | In-Trinity® España                                                                     |
-| 2010 a 2014           | Gerente Fibra Gimnasio                                                                 |
-| 2006 a 2010           | Coordinador Spinning® Body Factory, Fitness & Life Málaga                              |
-| 2004 a 2006           | Director técnico del programa Spinning® en España Barcelona                            |
-| 2002 a 2004           | Empresario be.project S.L representante del programa Spinning® en Suiza                |
-| 1995 a 2002           | Fitness Instructor en Body Form Rudolfstetten, TC St. Gallen, Nord Fit Zürich, Fitness Point Wettingen |
-
 <ul class="list-inline text-left footer-links">
   <li class="list-inline-item">
     <a href="https://linkedin.com/in/{{ network[1] }}" title="LinkedIn">
@@ -99,7 +93,20 @@ Si respetas la evolución como especie, entrenas duro, con corazón, conocimient
   <li class="list-inline-item">
     <a href="https://linkedin.com/in/robbieambrosini" title="Encuéntrame también en Linkedin">¡Encuéntrame también en Linkedin!</a>
   </li>
-
+ </ul> 
+| Period                |                                                                                        |
+|-----------------------|----------------------------------------------------------------------------------------|
+| 2023 a Actual         | Sporti The Club CEO                                                                    |
+| 2022 a Actual         | GOREWEAR Product Specialist                                                            |
+| 2014 a Actual         | Sport Club Reserva del Higuerón Resort Fuengirola                                      |
+| 2004 a Actual         | Empresario be.project S.L                                                              |
+| 2016 a 2018           | 27 Dragon Cycling Box, EMS X-Body® Studio y In-Trinity® Boutique Málaga                |
+| 2015                  | In-Trinity® España                                                                     |
+| 2010 a 2014           | Gerente Fibra Gimnasio                                                                 |
+| 2006 a 2010           | Coordinador Spinning® Body Factory, Fitness & Life Málaga                              |
+| 2004 a 2006           | Director técnico del programa Spinning® en España Barcelona                            |
+| 2002 a 2004           | Empresario be.project S.L representante del programa Spinning® en Suiza                |
+| 1995 a 2002           | Fitness Instructor en Body Form Rudolfstetten, TC St. Gallen, Nord Fit Zürich, Fitness Point Wettingen |
 
 ## TRAYECTORIA DEPORTIVA 
 | Period                |                                                                                        |
