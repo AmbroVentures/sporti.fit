@@ -1,13 +1,13 @@
 ---
 layout: page
-title: Nutricion
+title: Nutrición
 subtitle: Clases
 ---
 
-## Nutricion a Distancia
+## Nutrición a distancia
 
 TBC: (desc, price) → contact trainer
 
-## Nutricion Personal
+## Nutrición Personal
 
 TBC: (desc, price) → contact trainer
