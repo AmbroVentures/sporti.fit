@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Nutricion
+title: Nutrición
 subtitle: Clases
 ---
 
