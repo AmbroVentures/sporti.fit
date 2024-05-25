@@ -5,10 +5,14 @@ subtitle: Los Entrenadores
 ---
 
 # ROBBIE AMBROSINI
+> Si respetas la evolución como especie, entrenas duro, con corazón, conocimientos y perseverancia tus metas soñadas o deseadas se hacen realidad.
 ![Robbie]({{ 'assets/img/entrenador-robbie.jpg' | relative_url }})
-CEO de Sporti The Club Málaga, Biking® Master Instructor & Power Specialist Master Instructor para el programa BikingPOWER® de FIB&FIT Italy
-
-EX-Master Instructor & Power Specialist Master Instructor para el programa Spinning® y SPINPower® Inc. Venice California, EE.UU.In-Trinity® Master Instructor y In-Trinity® Director de Operaciones en Europa de Johnny G Method Santa Barbara California, EE.UU. Embajador de SelfLoops Italia.Empresario, Entrenador Personal, Barefoot Running Coach, X-Body EMS Master y Instructor de Yoga y Wing Chun Kung Fu. 
+- CEO de Sporti The Club Málaga  
+- Master Instructor para el programa BikingPOWER® de FIB&FIT Italy
+- EX-Master Instructor & Power Specialist Master Instructor para el programa Spinning® y SPINPower® Inc.
+- EE.UU.In-Trinity® Master Instructor y In-Trinity® Director de Operaciones en Europa de Johnny G Method
+- Embajador de SelfLoops Italia   
+- Entrenador Personal, Barefoot Running Coach, X-Body EMS Master y Instructor de Yoga y Wing Chun Kung Fu
 
 <ul class="list-inline text-center footer-links">
   <li class="list-inline-item">
@@ -61,9 +65,6 @@ EX-Master Instructor & Power Specialist Master Instructor para el programa Spinn
 ### Idiomas
 Puedes hablarme en todos estos idiomas:  
 🇨🇭 🇩🇪 🇪🇸 🇮🇹 🇬🇧 🇫🇷 🇳🇱
-
-## LEMA DEPORTIVO 
-Si respetas la evolución como especie, entrenas duro, con corazón, conocimientos y perseverancia tus metas soñadas o deseadas se hacen realidad. 
 
 ## HISTORIAL ACADÉMICO
 
