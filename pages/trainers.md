@@ -59,6 +59,7 @@ EX-Master Instructor & Power Specialist Master Instructor para el programa Spinn
  </ul> 
 
 ### Idiomas
+Puedes hablarme en todos estos idiomas:  
 🇨🇭 🇩🇪 🇪🇸 🇮🇹 🇬🇧 🇫🇷 🇳🇱
 
 ## LEMA DEPORTIVO 
@@ -66,8 +67,6 @@ Si respetas la evolución como especie, entrenas duro, con corazón, conocimient
 
 ## HISTORIAL ACADÉMICO
 
-| Period                |                                                                                        |
-|-----------------------|----------------------------------------------------------------------------------------|
 | 2023 a Actual         | Master Instructor y Power Specialist para Biking®Program por la federación italiana FIB&FIT |
 | 2015                  | In-Trinity® Instructor por Johnny G Method EE.UU                                       |
 | 2015                  | In-Trinity® Master Instructor por Johnny G Method EE.UU                                |
@@ -96,8 +95,6 @@ Si respetas la evolución como especie, entrenas duro, con corazón, conocimient
   </li>
  </ul> 
 
-| Period                |                                                                                        |
-|-----------------------|----------------------------------------------------------------------------------------|
 | 2023 a Actual         | Sporti The Club CEO                                                                    |
 | 2022 a Actual         | GOREWEAR Product Specialist                                                            |
 | 2014 a Actual         | Sport Club Reserva del Higuerón Resort Fuengirola                                      |
@@ -112,14 +109,12 @@ Si respetas la evolución como especie, entrenas duro, con corazón, conocimient
 
 ## TRAYECTORIA DEPORTIVA 
 
-| Period                |                                                                                        |
-|-----------------------|----------------------------------------------------------------------------------------|
 | 1999 a 2004           | Triatleta 1/2 distancia Ironman y Olímpica                                             |
 | 1989 a 2001           | Artes Marciales Kung Fu / Eskrima, miembro del equipo nacional de Eskrima Suizo        |
 | 1978 a 1991           | Portero de Hockey sobre hielo en el equipo S.C. Wettingen                              |
 
 ## DATOS DE INTERÉS 
-Presentación y formación del Programa Biking® y Spinning® en Suiza, Alemania, Italia, Francia, Portugal, España, Inglaterra, Holanda, Bélgica, Noruega, Suecia, Checoslovaquia, Polonia, Brasil y EE.UU.
+Presentación y formación del Programa Biking® y Spinning® en 🇨🇭 🇩🇪 🇮🇹 🇫🇷 🇵🇹 🇪🇸 🇬🇧 🇳🇱 🇧🇪 🇳🇴 🇸🇪 🇨🇿 🇸🇰 🇵🇱 🇧🇷 🇺🇸
 
 | 2015 a Actual         | Ambassador SelfLoops, In-Trinity®                                                      |
 | 2009                  | Presidente y fundador de la Asociación SpinClub Málaga                                 |
