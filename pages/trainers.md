@@ -121,8 +121,6 @@ Si respetas la evolución como especie, entrenas duro, con corazón, conocimient
 ## DATOS DE INTERÉS 
 Presentación y formación del Programa Biking® y Spinning® en Suiza, Alemania, Italia, Francia, Portugal, España, Inglaterra, Holanda, Bélgica, Noruega, Suecia, Checoslovaquia, Polonia, Brasil y EE.UU.
 
-| Period                |                                                                                        |
-|-----------------------|----------------------------------------------------------------------------------------|
 | 2015 a Actual         | Ambassador SelfLoops, In-Trinity®                                                      |
 | 2009                  | Presidente y fundador de la Asociación SpinClub Málaga                                 |
 | 2004                  | Record Mundial en saltos de velocidad en 60 minutos 7373 saltos, en Fitness Messe Munich. (Speed Jumps Spinning®) |
