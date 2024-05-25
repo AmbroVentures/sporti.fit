@@ -65,6 +65,7 @@ EX-Master Instructor & Power Specialist Master Instructor para el programa Spinn
 Si respetas la evolución como especie, entrenas duro, con corazón, conocimientos y perseverancia tus metas soñadas o deseadas se hacen realidad. 
 
 ## HISTORIAL ACADÉMICO
+
 | Period                |                                                                                        |
 |-----------------------|----------------------------------------------------------------------------------------|
 | 2023 a Actual         | Master Instructor y Power Specialist para Biking®Program por la federación italiana FIB&FIT |
@@ -94,6 +95,7 @@ Si respetas la evolución como especie, entrenas duro, con corazón, conocimient
     <a href="https://linkedin.com/in/robbieambrosini" title="Encuéntrame también en Linkedin">¡Encuéntrame también en Linkedin!</a>
   </li>
  </ul> 
+
 | Period                |                                                                                        |
 |-----------------------|----------------------------------------------------------------------------------------|
 | 2023 a Actual         | Sporti The Club CEO                                                                    |
@@ -109,6 +111,7 @@ Si respetas la evolución como especie, entrenas duro, con corazón, conocimient
 | 1995 a 2002           | Fitness Instructor en Body Form Rudolfstetten, TC St. Gallen, Nord Fit Zürich, Fitness Point Wettingen |
 
 ## TRAYECTORIA DEPORTIVA 
+
 | Period                |                                                                                        |
 |-----------------------|----------------------------------------------------------------------------------------|
 | 1999 a 2004           | Triatleta 1/2 distancia Ironman y Olímpica                                             |
