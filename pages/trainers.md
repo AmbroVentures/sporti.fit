@@ -5,14 +5,10 @@ subtitle: Los Entrenadores
 ---
 
 # ROBBIE AMBROSINI
-> Si respetas la evolución como especie, entrenas duro, con corazón, conocimientos y perseverancia tus metas soñadas o deseadas se hacen realidad.
+> ❝ Si respetas la evolución como especie, entrenas duro, con corazón, conocimientos y perseverancia tus metas soñadas o deseadas se hacen realidad.
+
 ![Robbie]({{ 'assets/img/entrenador-robbie.jpg' | relative_url }})
-- CEO de Sporti The Club Málaga  
-- Master Instructor para el programa BikingPOWER® de FIB&FIT Italy
-- EX-Master Instructor & Power Specialist Master Instructor para el programa Spinning® y SPINPower® Inc.
-- EE.UU.In-Trinity® Master Instructor y In-Trinity® Director de Operaciones en Europa de Johnny G Method
-- Embajador de SelfLoops Italia   
-- Entrenador Personal, Barefoot Running Coach, X-Body EMS Master y Instructor de Yoga y Wing Chun Kung Fu
+Como director general de Sporti The Club Málaga, Robbie combina una amplia experiencia con su pasión por el fitness. Su diversa formación y liderazgo en múltiples programas de fitness de renombre aportan un enfoque único y holístico al entrenamiento. Robbie cree en la superación de los límites con corazón, conocimiento y dedicación, guiando a los clientes a alcanzar sus objetivos finales de fitness.
 
 <ul class="list-inline text-center footer-links">
   <li class="list-inline-item">
