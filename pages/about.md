@@ -16,6 +16,10 @@ gallery:
     image_path: assets/img/BIC-Malaga-May24.jpg
     alt: "placeholder image 2"
     title: "Image 2 title caption"
+  - url: assets/img/BIC-Malaga-May24.jpg
+    image_path: assets/img/BIC-Malaga-May24.jpg
+    alt: "placeholder image 3"
+    title: "Image 3 title caption"
 ---
 
 {: .box-warning}
