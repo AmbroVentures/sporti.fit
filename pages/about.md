@@ -3,10 +3,12 @@ layout: page
 title: Acerca de
 subtitle: El método SPORTI de ciclismo al interior
 gallery:
-  - image_path: assets/img/BIC-Malaga-Feb24.jpg
+  - url: assets/img/BIC-Malaga-Feb24.jpg
+    image_path: assets/img/BIC-Malaga-Feb24.jpg
     alt: "placeholder image 1"
     title: "Image 1 title caption"
-  - image_path: assets/img/BIC-Malaga-May24.jpg
+  - url: assets/img/BIC-Malaga-May24.jpg
+    image_path: assets/img/BIC-Malaga-May24.jpg
     alt: "placeholder image 2"
     title: "Image 2 title caption"
 ---
