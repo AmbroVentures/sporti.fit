@@ -1126,6 +1126,9 @@ figure {
 
   &.half {
     > a
+    > img {
+      width: calc(50% - 0.5em);
+    }
 
     figcaption {
       width: 100%;
@@ -1134,6 +1137,9 @@ figure {
 
   &.third {
     > a
+    > img {
+      width: calc(33.3333% - 0.5em);
+    }
 
     figcaption {
       width: 100%;
@@ -1157,10 +1163,4 @@ figcaption {
       color: {{ site.hover-col | default: "#0085A1" }};
     }
   }
-}
-
-/* Fix IE9 SVG bug */
-
-svg:not(:root) {
-  overflow: hidden;
 }
