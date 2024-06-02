@@ -29,7 +29,7 @@ navbar-links:
 #    - Entrenamiento a Distancia: "pages/clases/distancia"
 #    - Nutricion: "pages/clases/nutricion"
   Localidad: "pages/location"
-  Impresiones:
+  Impresión:
     - El Gym: "pages/impressions/gym"
 #    - Classes:
 #    - Eventos: # y Formaciones
