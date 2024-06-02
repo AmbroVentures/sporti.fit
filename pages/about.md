@@ -7,6 +7,7 @@ js:
   - assets/js/init-popup.js
 css:
   - assets/css/magnific-popup.css
+  - assets/css/gallery.css
 gallery:
   - url: assets/img/BIC-Malaga-Feb24.jpg
     image_path: assets/img/BIC-Malaga-Feb24.jpg
