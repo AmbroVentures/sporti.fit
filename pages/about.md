@@ -77,4 +77,4 @@ Estos atletas tienen tipicamente un gran porcentaje de fibras musculares de cont
 
 
 
-{% include gallery layout="half" %}
+{% include gallery %}
