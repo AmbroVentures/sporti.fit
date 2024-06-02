@@ -4,6 +4,7 @@ title: Acerca de
 subtitle: El método SPORTI de ciclismo al interior
 js:
   - assets/js/jquery.magnific-popup.js
+  - assets/js/init-popup.js
 css:
   - assets/css/magnific-popup.css
 gallery:
@@ -82,21 +83,3 @@ Estos atletas tienen tipicamente un gran porcentaje de fibras musculares de cont
 
 
 {% include gallery %}
-
-<script>
-$(document).ready(function() {
-  // This targets anchor tags within figures that have the class related to your gallery
-  $('figure a').magnificPopup({
-    type: 'image',  // This is for image content; adjust if different content type
-    gallery: {
-      enabled: true  // Enables gallery mode
-    },
-    image: {
-      titleSrc: function(item) {
-        // Pulls the title from inside the anchor's title attribute
-        return item.el.attr('title');
-      }
-    }
-  });
-});
-</script>
