@@ -2,37 +2,6 @@
 layout: page
 title: Acerca de
 subtitle: El método SPORTI de ciclismo al interior
-js:
-  - assets/js/jquery.magnific-popup.js
-  - assets/js/init-popup.js
-css:
-  - assets/css/magnific-popup.css
-  - assets/css/gallery.css
-gallery:
-  - url: assets/img/BIC-Malaga-Feb24.jpg
-    image_path: assets/img/BIC-Malaga-Feb24.jpg
-    alt: "placeholder image 1"
-    title: "Image 1 title caption"
-  - url: assets/img/BIC-Malaga-May24.jpg
-    image_path: assets/img/BIC-Malaga-May24.jpg
-    alt: "placeholder image 2"
-    title: "Image 2 title caption"
-  - url: assets/img/BIC-Malaga-Feb24.jpg
-    image_path: assets/img/BIC-Malaga-Feb24.jpg
-    alt: "placeholder image 3"
-    title: "Image 3 title caption"
-  - url: assets/img/BIC-Malaga-May24.jpg
-    image_path: assets/img/BIC-Malaga-May24.jpg
-    alt: "placeholder image 4"
-    title: "Image 4 title caption"
-  - url: assets/img/BIC-Malaga-Feb24.jpg
-    image_path: assets/img/BIC-Malaga-Feb24.jpg
-    alt: "placeholder image 5"
-    title: "Image 5 title caption"
-  - url: assets/img/BIC-Malaga-May24.jpg
-    image_path: assets/img/BIC-Malaga-May24.jpg
-    alt: "placeholder image 5"
-    title: "Image 5 title caption"
 ---
 
 {: .box-warning}
@@ -96,7 +65,3 @@ Estos atletas tienen una mezcla bastante uniforme de fibras de contracción ráp
 
 ##### 4. El Contrarelojista
 Estos atletas tienen tipicamente un gran porcentaje de fibras musculares de contracción lenta y un alto FTP, pero con escaso poder neuromuscular. Ellos pueden mantener su potencia durante mucho tiempo (más de 30 minutos) y muestran una excelente resistencia durante muchas horas. Ellos son excelentes en pruebas por etapas, gran fondos, contrareloj, escalada, y cualquier evento que requiere un esfuerzo de largo, duro y sostenido. Ejemplo Cadel Evans; Tony Martin, Bradley Wiggins ver video.
-
-
-
-{% include gallery %}
