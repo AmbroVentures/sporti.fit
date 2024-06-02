@@ -1090,3 +1090,77 @@ pre {
     display: inline-block;
   }
 }
+
+/*
+   Media and embeds    adapted from https://github.com/mmistakes/minimal-mistakes/blob/5b203f46c474de8b1afdd1521894b26233746ca2/_sass/minimal-mistakes/_base.scss
+   ========================================================================== */
+
+/* Figures and images */
+
+figure {
+  display: -webkit-box;
+  display: flex;
+  -webkit-box-pack: justify;
+  justify-content: space-between;
+  -webkit-box-align: start;
+  align-items: flex-start;
+  flex-wrap: wrap;
+  margin: 2em 0;
+
+  img,
+  iframe,
+  .fluid-width-video-wrapper {
+    margin-bottom: 1em;
+  }
+
+  img {
+    width: 100%;
+    border-radius: 4px;
+    -webkit-transition: all 0.2s ease-in-out;
+    transition: all 0.2s ease-in-out;
+  }
+
+  > a {
+    display: block;
+  }
+
+  &.half {
+    > a
+
+    figcaption {
+      width: 100%;
+    }
+  }
+
+  &.third {
+    > a
+
+    figcaption {
+      width: 100%;
+    }
+  }
+}
+
+/* Figure captions */
+
+figcaption {
+  margin-bottom: 0.5em;
+  color: {{ site.link-col | default: "#008AFF" }};
+  font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+  font-size: 1.125rem;
+
+  a {
+    -webkit-transition: all 0.2s ease-in-out;
+    transition: all 0.2s ease-in-out;
+
+    &:hover {
+      color: {{ site.hover-col | default: "#0085A1" }};
+    }
+  }
+}
+
+/* Fix IE9 SVG bug */
+
+svg:not(:root) {
+  overflow: hidden;
+}
