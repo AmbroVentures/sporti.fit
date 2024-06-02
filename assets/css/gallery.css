@@ -19,18 +19,10 @@ figure {
   /* General anchor styling inside figure */
   figure > a {
     display: block;
-    margin-right: 0.5em; /* Right margin for spacing, adjust as necessary */
-  }
-  
-  /* Last anchor in a figure has no right margin */
-  figure > a:last-child {
-    margin-right: 0;
   }
   
   /* Styles for half and third classes */
-  figure.half > a,
-  figure.third > a {
-    display: block;
+  figure.half > a{
     width: calc(50% - 0.5em); /* Default to half */
   }
   
@@ -46,7 +38,6 @@ figure {
   
   /* Figure captions styling */
   figcaption {
-    width: 100%;
     margin-bottom: 0.5em;
     color: {{ site.link-col | default: "#008AFF" }};
     font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
