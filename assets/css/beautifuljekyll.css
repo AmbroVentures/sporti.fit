@@ -1147,6 +1147,23 @@ figure {
   }
 }
 
+figure.half {
+  display: flex;
+  justify-content: space-between; /* This will space out the images */
+  align-items: flex-start; /* Align images to the top */
+  flex-wrap: wrap; /* Allows items to wrap as needed */
+}
+
+figure.half > a {
+  width: calc(50% - 0.5em); /* Assign width to the anchor to control image size */
+  display: block; /* Ensures the anchor tag behaves as a block element */
+}
+
+figure.half > a > img {
+  width: 100%; /* Makes the image fill the anchor tag */
+  object-fit: cover; /* Optional: Adjusts the image's fit within its box */
+}
+
 /* Figure captions */
 
 figcaption {
