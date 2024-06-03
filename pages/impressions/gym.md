@@ -17,6 +17,14 @@ gallery:
     image_path: assets/img/gym/gym-saul-2023-03 (2).jpg
     alt:   "Sporti The Club en el Gym Saul (Mar 2023)"
     title: "Sporti The Club en el Gym Saul (Mar 2023)"
+  - url:        assets/img/gym/gym-saul-2024-03 (1).jpg
+    image_path: assets/img/gym/gym-saul-2024-03 (1).jpg
+    alt:   "Sporti The Club en el Gym Saul (Mar 2024)"
+    title: "Sporti The Club en el Gym Saul (Mar 2024)"
+  - url:        assets/img/gym/gym-saul-2024-03 (2).jpg
+    image_path: assets/img/gym/gym-saul-2024-03 (2).jpg
+    alt:   "Sporti The Club en el Gym Saul (Mar 2024)"
+    title: "Sporti The Club en el Gym Saul (Mar 2024)"
   - url:        assets/img/gym/gym-saul-2023-03 (3).jpg
     image_path: assets/img/gym/gym-saul-2023-03 (3).jpg
     alt:   "Sporti The Club en el Gym Saul (Mar 2023)"
@@ -37,14 +45,6 @@ gallery:
     image_path: assets/img/gym/gym-saul-2023-03 (7).jpg
     alt:   "Sporti The Club en el Gym Saul (Mar 2023)"
     title: "Sporti The Club en el Gym Saul (Mar 2023)"
-  - url:        assets/img/gym/gym-saul-2024-03 (1).jpg
-    image_path: assets/img/gym/gym-saul-2024-03 (1).jpg
-    alt:   "Sporti The Club en el Gym Saul (Mar 2024)"
-    title: "Sporti The Club en el Gym Saul (Mar 2024)"
-  - url:        assets/img/gym/gym-saul-2024-03 (2).jpg
-    image_path: assets/img/gym/gym-saul-2024-03 (2).jpg
-    alt:   "Sporti The Club en el Gym Saul (Mar 2024)"
-    title: "Sporti The Club en el Gym Saul (Mar 2024)"
   - url:        assets/img/gym/gym-saul-2024-03 (3).jpg
     image_path: assets/img/gym/gym-saul-2024-03 (3).jpg
     alt:   "Sporti The Club en el Gym Saul (Mar 2024)"
