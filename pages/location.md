@@ -143,4 +143,4 @@ En Sporti, estamos orgullosos de estar situados dentro de las instalaciones de [
 
 ¿Aún no está convencido? Echa un ojo a nuestra galería y haznos una visita virtual.
 
-[![To the Gallery]({{ 'assets/img/gym/gym-saul-2024-03 (1).jpg' | relative_url | width=50% }})](https://sporti.fit/pages/impressions/gym/)
+[<img src="/assets/img/gym/gym-saul-2024-03 (1).jpg" width="30%" />](https://sporti.fit/pages/impressions/gym/)
