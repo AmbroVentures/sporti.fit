@@ -426,7 +426,7 @@ footer a {
   color: var(--footer-link-col);
 }
 footer .footer-links a {
-  color: var(--text-col);
+  color: var(--footer-link-col);
 }
 footer .footer-links .fa-inverse {
   color: var(--page-col);
@@ -937,6 +937,10 @@ pre {
 #social-share-section {
   margin-bottom: 1.875rem;
   margin-top: 1.875rem;
+}
+
+#social-share-section a {
+  color: #fff;
 }
 
 /* --- Notification boxes --- */
