@@ -67,6 +67,7 @@ social-network-links:
   facebook: robert.ambrosini
   linkedin: robbieambrosini
   telephone: +34667205965
+  whatsapp: +34667205965
 #  github: AmbroVentures
 #  twitter: daattali
 #  patreon: DeanAttali
@@ -111,7 +112,8 @@ share-links-active:
 # How to display the link to your website in the footer
 # Remove this if you don't want a link in the footer
 url-pretty: "Sporti.fit"
-
+# Add the website title to the title of every page
+title-on-all-pages: true
 # Excerpt word length - Truncate the excerpt of each post on the feed page to the specified number of words
 excerpt_length: 50
 
