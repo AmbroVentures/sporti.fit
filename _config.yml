@@ -31,9 +31,8 @@ navbar-links:
   Localidad: "pages/location"
   Impresión:
     - El Gym: "pages/impressions/gym"
-#    - Classes:
-#    - Eventos: # y Formaciones
-#    - El Gym: 
+    - Eventos: "pages/impressions/events"
+#    - Classes y Formaciones:
   Más:
     - AmbroVentures: "https://ambro.ventures"
 #    - FAQ: "pages/faq"
