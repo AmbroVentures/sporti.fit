@@ -17,7 +17,7 @@ a.cta-button {
     display: inline-block;  /* Ensure it is treated as clickable block */
 }
 
-/* https://dabuttonfactory.com/button.png?t=Reg%C3%ADstrate+ahora&f=Open+Sans-Bold&ts=26&tc=fff&tshs=1&tshc=cc8400&hp=40&vp=20&c=round&bgt=unicolored&bgc=ffa500&shs=3&shc=cc8400&sho=s */
+/* loosely based on https://dabuttonfactory.com/button.png?t=Reg%C3%ADstrate+ahora&f=Open+Sans-Bold&ts=26&tc=fff&tshs=1&tshc=cc8400&hp=40&vp=20&c=round&bgt=unicolored&bgc=ffa500&shs=3&shc=cc8400&sho=s */
 .cta-button{
     background:    var(--cta-col);
     border-radius: 1000px;

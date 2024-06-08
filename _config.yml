@@ -144,14 +144,14 @@ keywords: "sport,malaga,spinning,selfloops,biking,indoor cycling,bikingprogram,g
 # Personalize the colours in your website. Colour values can be any valid CSS colour
 # helpfull tool: https://www.color-hex.com/
 navbar-col: "#03396c"
-navbar-text-col: "#FFFFFF"
+navbar-text-col: "#fffbee"
 navbar-border-col: "#CCCCCC"
-page-col: "#FFFFFF"
+page-col: "#fffbee"
 text-col: "#333333"
 link-col: "#1E90FF"
 hover-col: "#FF8D1E"
 footer-col: "#03396c"
-footer-text-col: "#FFFFFF"
+footer-text-col: "#fffbee"
 footer-link-col: "#9BCCFF"
 footer-hover-col: "#FF8D1E"
 
