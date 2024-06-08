@@ -25,7 +25,7 @@ a.cta-button {
     padding:       20px 40px;
     color:         var(--cta-text-col);
     display:       inline-block;
-    font:          normal bold 26px/1;
+    font:          normal bold 26px/1 "Open Sans", sans-serif;
     text-align:    center;
     text-shadow:   1px 1px var(--cta-shadow-col);
     cursor:        pointer; /* Makes the button feel clickable */
