@@ -18,7 +18,8 @@ a.cta-button {
 }
 
 /* loosely based on https://dabuttonfactory.com/button.png?t=Reg%C3%ADstrate+ahora&f=Open+Sans-Bold&ts=26&tc=fff&tshs=1&tshc=cc8400&hp=40&vp=20&c=round&bgt=unicolored&bgc=ffa500&shs=3&shc=cc8400&sho=s */
-.cta-button{
+/* making this and below effects specific to <a> because of inheritance issues in safari/iphone */
+a.cta-button{
     background:    var(--cta-col);
     border-radius: 1000px;
     box-shadow:    0 3px var(--cta-shadow-col);
@@ -33,12 +34,14 @@ a.cta-button {
     transition:    background-color 0.3s, box-shadow 0.3s; /* Smooth transition for hover and active states */
 }
 
-.cta-button:hover, .cta-button:focus {
+a.cta-button:hover, .cta-button:focus {
     background-color: var(--cta-hover-col);
     box-shadow: 0 5px var(--cta-shadow-col);
 }
 
-.cta-button:active {
+a.cta-button:active {
     background-color: var(--cta-activate-col);
     box-shadow: 0 1px var(--cta-shadow-col);
+    transform: scale(0.98); /* Slightly shrink the button to give a tactile feedback */
+    transition: background-color 0.2s, box-shadow 0.2s, transform 0.2s; /* quick transition to mimic a physical button press */
 }
