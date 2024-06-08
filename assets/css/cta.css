@@ -8,6 +8,13 @@ layout: null
     --cta-shadow-col: {{ site.cta-shadow-col | default: "#CC8400" }};
 }
 
+/* Reset anchor styles specifically for cta-button */
+a .cta-button {
+    text-decoration: none;  /* Remove underline from link */
+    color: inherit;         /* Inherit text color from cta-button styles */
+    display: inline-block;  /* Ensure it is treated as clickable block */
+}
+
 /* https://dabuttonfactory.com/button.png?t=Reg%C3%ADstrate+ahora&f=Open+Sans-Bold&ts=26&tc=fff&tshs=1&tshc=cc8400&hp=40&vp=20&c=round&bgt=unicolored&bgc=ffa500&shs=3&shc=cc8400&sho=s */
 .cta-button{
     background:    var(--cta-col);
@@ -19,7 +26,6 @@ layout: null
     font:          normal bold 26px/1 "Open Sans", sans-serif;
     text-align:    center;
     text-shadow:   1px 1px var(--cta-shadow-col);
-    text-decoration: none; /* Removes underline from any links */
     cursor:        pointer; /* Makes the button feel clickable */
     transition:    background-color 0.3s, box-shadow 0.3s; /* Smooth transition for hover and active states */
 }
