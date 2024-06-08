@@ -10,7 +10,7 @@ layout: null
 }
 
 /* Reset anchor styles specifically for cta-button */
-a .cta-button {
+a.cta-button {
     text-decoration: none;  /* Remove underline from link */
     color: inherit;         /* Inherit text color from cta-button styles */
     display: inline-block;  /* Ensure it is treated as clickable block */
@@ -38,5 +38,5 @@ a .cta-button {
 
 .cta-button:active {
     background-color: #cc8400;
-    box-shadow: 0 -2px var(--cta-shadow-col);
+    box-shadow: 0 1px var(--cta-shadow-col);
 }
