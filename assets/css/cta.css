@@ -6,6 +6,7 @@ layout: null
     --cta-col: {{ site.cta-col | default: "#FFA500" }};
     --cta-text-col: {{ site.cta-text-col | default: "#ffffff" }};
     --cta-shadow-col: {{ site.cta-shadow-col | default: "#CC8400" }};
+    --cta-hover-col: {{ site.cta-shadow-col | default: "#e69500" }};
 }
 
 /* Reset anchor styles specifically for cta-button */
@@ -23,7 +24,7 @@ a .cta-button {
     padding:       20px 40px;
     color:         var(--cta-text-col);
     display:       inline-block;
-    font:          normal bold 26px/1 "Open Sans", sans-serif;
+    font:          normal bold 26px/1;
     text-align:    center;
     text-shadow:   1px 1px var(--cta-shadow-col);
     cursor:        pointer; /* Makes the button feel clickable */
@@ -31,7 +32,7 @@ a .cta-button {
 }
 
 .cta-button:hover, .cta-button:focus {
-    background-color: #e69500;
+    background-color: var(--cta-hover-col);
     box-shadow: 0 5px var(--cta-shadow-col);
 }
 
