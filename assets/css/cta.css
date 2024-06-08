@@ -9,11 +9,11 @@
 .cta-button{
     background:    var(--cta-col);
     border-radius: 1000px;
-    box-shadow:    0 3px var(--cta-col-shadow);
+    box-shadow:    0 3px var(--cta-shadow-col);
     padding:       20px 40px;
     color:         var(--cta-text-col);
     display:       inline-block;
     font:          normal bold 26px/1 "Open Sans", sans-serif;
     text-align:    center;
-    text-shadow:   1px 1px var(--cta-col-shadow);
+    text-shadow:   1px 1px var(--cta-shadow-col);
 }
