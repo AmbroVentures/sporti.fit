@@ -2,6 +2,8 @@
 layout: page
 title: Clases Presenciales
 subtitle: Clases
+css:
+  - assets/css/cta.css
 ---
 
 Clases realizadas por potencia con bicicleta especiales las  [Spinner® Chrono™ Power de PRECOR](https://spinning.com/content/pdfs/owners-manual/chrono-power.pdf).
