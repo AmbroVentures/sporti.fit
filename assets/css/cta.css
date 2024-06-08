@@ -28,6 +28,7 @@ a.cta-button {
     font:          normal bold 26px/1 "Open Sans", sans-serif;
     text-align:    center;
     text-shadow:   1px 1px var(--cta-shadow-col);
+    text-decoration: none;
     cursor:        pointer; /* Makes the button feel clickable */
     transition:    background-color 0.3s, box-shadow 0.3s; /* Smooth transition for hover and active states */
 }
