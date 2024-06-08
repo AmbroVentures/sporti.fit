@@ -160,7 +160,7 @@ footer-hover-col: "#FF8D1E"
 cta-col: "#FFA500"
 cta-text-col: "#FFFFFF"
 cta-shadow-col: "#CC8400"
-cta-hover-col: "#e69500"
+cta-hover-col: "#ffb733"
 cta-activate-col: "#cc8400"
 
 # Alternatively, the navbar, footer, and page background can be set to an image

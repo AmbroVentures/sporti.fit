@@ -18,7 +18,7 @@ a.cta-button {
 }
 
 /* https://dabuttonfactory.com/button.png?t=Reg%C3%ADstrate+ahora&f=Open+Sans-Bold&ts=26&tc=fff&tshs=1&tshc=cc8400&hp=40&vp=20&c=round&bgt=unicolored&bgc=ffa500&shs=3&shc=cc8400&sho=s */
-a.cta-button{
+.cta-button{
     background:    var(--cta-col);
     border-radius: 1000px;
     box-shadow:    0 3px var(--cta-shadow-col);
@@ -33,12 +33,12 @@ a.cta-button{
     transition:    background-color 0.3s, box-shadow 0.3s; /* Smooth transition for hover and active states */
 }
 
-a.cta-button:hover, a.cta-button:focus {
+.cta-button:hover, .cta-button:focus {
     background-color: var(--cta-hover-col);
     box-shadow: 0 5px var(--cta-shadow-col);
 }
 
-a.cta-button:active {
+.cta-button:active {
     background-color: var(--cta-activate-col);
     box-shadow: 0 -1px var(--cta-shadow-col);
 }
