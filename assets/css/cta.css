@@ -1,0 +1,19 @@
+:root {
+    /* config file CSS variables */
+    --cta-col: {{ site.cta-col | default: "#FFA500" }};
+    --cta-text-col: {{ site.cta-text-col | default: "#ffffff" }};
+    --cta-shadow-col: {{ site.cta-shadow-col | default: "#CC8400" }};
+}
+
+/* https://dabuttonfactory.com/button.png?t=Reg%C3%ADstrate+ahora&f=Open+Sans-Bold&ts=26&tc=fff&tshs=1&tshc=cc8400&hp=40&vp=20&c=round&bgt=unicolored&bgc=ffa500&shs=3&shc=cc8400&sho=s */
+.cta-button{
+    background:    var(--cta-col);
+    border-radius: 1000px;
+    box-shadow:    0 3px var(--cta-col-shadow);
+    padding:       20px 40px;
+    color:         var(--cta-text-col);
+    display:       inline-block;
+    font:          normal bold 26px/1 "Open Sans", sans-serif;
+    text-align:    center;
+    text-shadow:   1px 1px var(--cta-col-shadow);
+}

@@ -52,6 +52,8 @@ Cuando te diviertes, es mucho más fácil perder peso y mantener la motivación.
 La cuota da derecho a participar en 3 clases semanales.
 
 [![Regístrate ahora](https://dabuttonfactory.com/button.png?t=Reg%C3%ADstrate+ahora&f=Open+Sans-Bold&ts=26&tc=fff&hp=45&vp=20&c=11&bgt=unicolored&bgc=8694ff)](mailto:shop@sporti.fit?subject=Suscripci%C3%B3n%3A%20Clases%20Presencialses%20de%20Sporti&body=Buenos%20d%C3%ADas%0A%0AMe%20gustar%C3%ADa%20inscribirme%20en%20las%20clases%20presenciales.%0A%0AEstos%20son%20los%20datos%20necesarios%20para%20mi%20inscripci%C3%B3n.%0A%0ANombre%3A%0AApodo*%3A%0AFecha%20de%20nacimiento%3A%20%0ASexo%3A%20%0ADirecci%C3%B3n%20completa%3A%20%0APeso%3A%20%0AFTP%20(Umbral%20de%20potencia%20funcional)*%3A%0AFrecuencia%20cardiaca%20en%20reposo*%3A%20%0AFrecuencia%20cardiaca%20m%C3%A1xima*%3A%20%0A%0A*%20si%20se%20dispone%0A%0A%0APor%20favor%2C%20env%C3%ADenme%20mis%20datos%20de%20acceso%20para%20inscribirme%20en%20una%20sesi%C3%B3n%20de%20formaci%C3%B3n%20de%20prueba.%0A%0AUn%20cordial%20saludo%0A%0A)
+[Test](https://dabuttonfactory.com/button.png?t=Reg%C3%ADstrate+ahora&f=Open+Sans-Bold&ts=26&tc=fff&tshs=1&tshc=cc8400&hp=40&vp=20&c=round&bgt=unicolored&bgc=ffa500&shs=3&shc=cc8400&sho=s)
+<div class=cta-button>Regístrate ahora</div>
 
 Una vez que hayamos recibido tu correo electrónico de registro, crearemos una cuenta para ti en Spark SelfLopps y las primeras instrucciones de pago se realizarán después de la semana de prueba.
 
