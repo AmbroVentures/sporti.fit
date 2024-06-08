@@ -1,3 +1,6 @@
+---
+layout: null
+---
 :root {
     /* config file CSS variables */
     --cta-col: {{ site.cta-col | default: "#FFA500" }};
@@ -16,4 +19,7 @@
     font:          normal bold 26px/1 "Open Sans", sans-serif;
     text-align:    center;
     text-shadow:   1px 1px var(--cta-shadow-col);
+    text-decoration: none; /* Removes underline from any links */
+    cursor:        pointer; /* Makes the button feel clickable */
+    transition:    background-color 0.3s, box-shadow 0.3s; /* Smooth transition for hover and active states */
 }
