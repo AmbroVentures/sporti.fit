@@ -6,7 +6,8 @@ layout: null
     --cta-col: {{ site.cta-col | default: "#FFA500" }};
     --cta-text-col: {{ site.cta-text-col | default: "#ffffff" }};
     --cta-shadow-col: {{ site.cta-shadow-col | default: "#CC8400" }};
-    --cta-hover-col: {{ site.cta-shadow-col | default: "#e69500" }};
+    --cta-hover-col: {{ site.cta-hover-col | default: "#e69500" }};
+    --cta-activate-col: {{ site.cta-activate-col | default: "#cc8400" }};
 }
 
 /* Reset anchor styles specifically for cta-button */
@@ -37,6 +38,6 @@ a.cta-button {
 }
 
 .cta-button:active {
-    background-color: #cc8400;
-    box-shadow: 0 1px var(--cta-shadow-col);
+    background-color: var(--cta-activate-col);
+    box-shadow: 0 -1px var(--cta-shadow-col);
 }
