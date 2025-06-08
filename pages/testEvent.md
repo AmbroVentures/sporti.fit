@@ -22,7 +22,7 @@ TBC
 
 ### Event 1
 <div id="tixtree-wrapper"><script id="tixtree-script" src="https://www.tixtree.com/widgets/tixtree.js" data-type="event" data-id="test-event-2025-433c84180238"></script></div>
-<br>
 
 ### Event 2
-<div id="tixtree-wrapper"><script id="tixtree-script" src="https://www.tixtree.com/widgets/tixtree.js" data-type="event" data-id="test-event-2025-433c84180238"></script></div>
+
+Mit Tixtree chan leider nur 1 Event pro Website ahgzeigt werde. Und mer chan Tickets au ned gruppiere :(
