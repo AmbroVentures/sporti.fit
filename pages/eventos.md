@@ -14,7 +14,7 @@ Aquí puede encontrar todas las entradas para nuestros próximos programas.
 
 ## Tixtree
 
-<div id="tixtree-wrapper-box"><script id="tixtree-script" src="https://www.tixtree.com/widgets/tixtree.js" data-type="events" data-id="sporti-920f216617e3"></script></div>
+<div id="tixtree-wrapper"><script id="tixtree-script-box" src="https://www.tixtree.com/widgets/tixtree.js" data-type="events" data-id="sporti-920f216617e3"></script></div>
 
 # Event
 
@@ -24,4 +24,4 @@ Aquí puede encontrar todas las entradas para nuestros próximos programas.
 
 ## Tixtree
 
-<div id="tixtree-wrapper-event"><script id="tixtree-script" src="https://www.tixtree.com/widgets/tixtree.js" data-type="event" data-id="invicto-spain-2025-9925adf14862"></script></div>
+<div id="tixtree-wrapper"><script id="tixtree-script-event" src="https://www.tixtree.com/widgets/tixtree.js" data-type="event" data-id="invicto-spain-2025-9925adf14862"></script></div>
