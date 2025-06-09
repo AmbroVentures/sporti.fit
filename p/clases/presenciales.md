@@ -38,7 +38,7 @@ Sólo cuando aplicas la ciencia del deporte puedes alcanzar objetivos a corto, m
  
 Cuando te diviertes, es mucho más fácil perder peso y mantener la motivación. Nuestros 30 años de experiencia también contribuyen a ello, porque la relación interpersonal entre entrenador y participante genera confianza.
 
-¿Quiere saber más? Aquí encontrará más información sobre nuestro [método de formación](https://sporti.fit/pages/about/#presenciales) y [entrenadores](https://sporti.fit/pages/trainers/).
+¿Quiere saber más? Aquí encontrará más información sobre nuestro [método de formación](/p/about/#presenciales) y [entrenadores](/p/trainers/).
 
 <a name=Precio></a>
 

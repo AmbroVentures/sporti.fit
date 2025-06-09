@@ -21,22 +21,22 @@ author: Robert Ambrosini
 
 navbar-links:
   Acerca de: 
-    - Sporti: "pages/about"
-    - Entrenadores: "pages/trainers"
+    - Sporti: "p/about"
+    - Entrenadores: "p/trainers"
   Clases:
-    - Clases Presenciales: "pages/clases/presenciales"
-    - Video Clases: "pages/clases/video"
-#    - Entrenamiento a Distancia: "pages/clases/distancia"
-#    - Nutricion: "pages/clases/nutricion"
-  Localidad: "pages/location"
+    - Clases Presenciales: "p/clases/presenciales"
+    - Video Clases: "p/clases/video"
+#    - Entrenamiento a Distancia: "p/clases/distancia"
+#    - Nutricion: "p/clases/nutricion"
+  Localidad: "p/location"
   Impresión:
-    - El Gym: "pages/impressions/gym"
-    - Eventos: "pages/impressions/events"
+    - El Gym: "p/impressions/gym"
+    - Eventos: "p/impressions/events"
 #    - Classes y Formaciones:
-  Shop: "pages/shop"
+  Shop: "p/shop"
   Más:
     - AmbroVentures: "https://ambro.ventures"
-#    - FAQ: "pages/faq"
+#    - FAQ: "p/faq"
 #    - Beautiful Jekyll: "https://beautifuljekyll.com"
 #    - Learn markdown: "https://www.markdowntutorial.com/"
 

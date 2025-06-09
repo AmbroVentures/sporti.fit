@@ -25,4 +25,4 @@ kA warum d Tickets doh ned ahzeigt werdet...
 
 # Events
 
-[-> Event Page](/pages/testEvent)
+[-> Event Page](/p/testEvent)
