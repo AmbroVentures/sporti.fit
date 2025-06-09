@@ -33,6 +33,7 @@ navbar-links:
     - El Gym: "pages/impressions/gym"
     - Eventos: "pages/impressions/events"
 #    - Classes y Formaciones:
+  Shop: "pages/shop"
   Más:
     - AmbroVentures: "https://ambro.ventures"
 #    - FAQ: "pages/faq"

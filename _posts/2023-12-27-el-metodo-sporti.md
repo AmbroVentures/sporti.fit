@@ -5,7 +5,7 @@ subtitle: Un Introducción
 cover-img: /assets/img/path.jpg
 thumbnail-img: /assets/img/logo.jpg
 share-img: /assets/img/path.jpg
-tags: [SPORTI]
+tags: [blog]
 author: Robert Ambrosini
 ---
 Quizás el error más común que he visto cometer a muchos deportistas aficionados y fitness a lo largo de muchos años es entrenar sin conciencia de lo que estás haciendo, por qué lo haces y para qué lo haces, y lo peor de todo es la falta de interés en encontrar esas respuestas.
@@ -13,7 +13,6 @@ Quizás el error más común que he visto cometer a muchos deportistas aficionad
 Creo que lo que distingue a un deportista aficionado o fitness que está progresando bien de otro que está estancado no es sólo la falta de objetivos claros y alcanzables, sino también la forma de implementarlos de manera correcta y eficiente, y sobre todo la conciencia de que lo está haciendo. él.
 
 He visto muchos casos de atletas que entrenan a ojo, que carecen de estructura, que están mal alimentados y que aún luchan por los primeros lugares en las carreras pero nunca logran consistencia en sus actuaciones, un día suben al podio, al otro día que no terminan la carrera, etc.
-
 
 Me pregunto qué pasaría si supiera todo lo que hay que saber sobre entrenamiento, nutrición y descanso, o mejor aún, si también tuviera un guía llamado entrenador, coach o profesor.
 
