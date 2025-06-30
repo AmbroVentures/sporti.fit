@@ -9,13 +9,13 @@
   {% if current_lang == site.default_lang %}
     {% assign base_url = page.url %}
   {% else %}
-    <!-- For non-default languages, find the equivalent default language page -->
-    {% assign default_page = site.pages | where:"ref", current_page_ref | where:"lang", nil | first %}
+    <!-- For non-default languages, find the equivalent default language page --><!-- For non-default languages, find the equivalent default language page -->
+    {% assign default_page = site.pages | where:"ref", current_page_ref | where_exp: "item", "item.lang == site.default_lang or item.lang == nil" | first %}
     {% if default_page %}
       {% assign base_url = default_page.url %}
     {% else %}
       <!-- Fallback: construct base URL by removing language prefix -->
-      {% assign base_url = page.url | remove_first: '/' | append: current_lang | append: '/' %}
+      {% assign base_url = page.url | remove_first: '/' | split: '/' | slice: 1, 100 | join: '/' | prepend: '/' %}
     {% endif %}
   {% endif %}
 
