@@ -27,7 +27,7 @@
                   {% if current_lang == site.default_lang %}
                     {% assign link_url = linkparts[1] %}
                   {% else %}
-                    {% assign link_url = '/' | append: current_lang | append: '/' | append: linkparts[1] %}
+                    {% capture link_url %}/{{ current_lang }}/{{ linkparts[1] }}{% endcapture %}
                   {% endif %}
                   <a class="dropdown-item" href="{{ link_url | relative_url }}">{{ linkparts[0] }}</a>
                 {%- endfor -%}
@@ -40,7 +40,7 @@
             {% if current_lang == site.default_lang %}
               {% assign link_url = link[1] %}
             {% else %}
-              {% assign link_url = '/' | append: current_lang | append: '/' | append: link[1] %}
+              {% capture link_url %}/{{ current_lang }}/{{ link[1] }}{% endcapture %}
             {% endif %}
             <a class="nav-link" href="{{ link_url | relative_url }}">{{ link[0] }}</a>
           </li>
