@@ -10,7 +10,7 @@
     {% assign base_url = page.url %}
   {% else %}
     <!-- For non-default languages, find the equivalent default language page -->
-    {% assign default_page = site.pages | where:"ref", current_page_ref | where_exp: "item", "item.lang == site.default_lang or item.lang == nil" | first %}
+    {% assign default_page = site.pages | where:"ref", current_page_ref | where:"lang", nil | first %}
     {% if default_page %}
       {% assign base_url = default_page.url %}
     {% else %}
