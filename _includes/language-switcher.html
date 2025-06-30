@@ -8,7 +8,7 @@
     {% assign base_url = page.url %}
   {% else %}
     {% assign lang_page = translations | where:"lang", site.default_lang | first %}
-    {% assign default_page = translations | last %}
+    {% assign default_page = translations | sort: 'lang' | last %}
     {% if lang_page %}
       {% assign base_url = lang_page.url %}
     {% else %}
@@ -36,42 +36,9 @@
               {% assign lang_url = '/' | append: lang | append: base_url %}
             {% endif %}
           {% endif %}
-          <a class="dropdown-item" href="{{ lang_url | relative_url }}">{{ lang_name }}</a>
+          <a class="dropdown-item" href="{{ lang_url | relative_url }}">{{ lang_dd }}</a>
         {% endif %}
       {% endfor %}
     </div>
   </div>
 </div>
-
-<style>
-.language-switcher {
-  margin-left: 15px;
-}
-
-.language-switcher .btn {
-  border-color: var(--navbar-text-col);
-  color: var(--navbar-text-col);
-}
-
-.language-switcher .btn:hover {
-  background-color: var(--hover-col);
-  border-color: var(--hover-col);
-  color: white;
-}
-
-.language-switcher .dropdown-menu {
-  min-width: 120px;
-}
-
-.language-switcher .dropdown-item.active {
-  background-color: var(--link-col);
-  color: white;
-  font-weight: bold;
-}
-
-@media (max-width: 991px) {
-  .language-switcher {
-    margin: 10px 0;
-  }
-}
-</style>
