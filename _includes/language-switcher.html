@@ -3,17 +3,16 @@
   {% assign current_lang = page.lang | default: site.default_lang %}
   {% assign locales = site.data.locales %}
 
-  <!-- For default language pages, find the base URL -->
+  {% comment %} Find base URL {% endcomment %}
   {% if current_lang == site.default_lang %}
     {% assign base_url = page.url %}
   {% else %}
-    <!-- For non-default languages, find the equivalent default language page -->
-    {% assign default_page = translations | where:"lang", nil | first %}
-    {% if default_page %}
-      {% assign base_url = default_page.url %}
+    {% assign lang_page = translations | where:"lang", site.default_lang | first %}
+    {% assign default_page = translations | last %}
+    {% if lang_page %}
+      {% assign base_url = lang_page.url %}
     {% else %}
-      <!-- Fallback: construct base URL by removing language prefix -->
-      {% assign base_url = page.url | remove_first: '/' | append: current_lang | append: '/' %}
+      {% assign base_url = default_page.url %}
     {% endif %}
   {% endif %}
 

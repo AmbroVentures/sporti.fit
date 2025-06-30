@@ -15,7 +15,7 @@ de:
   locale: "de_DE"
   hreflang: ["de", "de-DE", "de-CH", "de-AT"]
   name: "Deutsch"
-  short : "DE"
+  short: "DE"
   
 it:
   locale: "it_IT"
