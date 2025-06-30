@@ -22,7 +22,6 @@
   <div class="dropdown">
     <button class="btn btn-sm btn-outline-secondary dropdown-toggle" type="button" id="languageDropdown" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
       <i class="fas fa-globe"></i>
-      {{ locales[current_lang].name | default: current_lang | upcase }}
     </button>
     <div class="dropdown-menu" aria-labelledby="languageDropdown">
       {% for lang in site.languages %}
