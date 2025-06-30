@@ -51,15 +51,7 @@
         <li class="nav-item">
           <a class="nav-link" id="nav-search-link" href="#" title="Search">
             <span id="nav-search-icon" class="fa fa-search"></span>
-            <span id="nav-search-text">
-              {% assign current_lang = page.lang | default: site.default_lang %}
-              {% case current_lang %}
-                {% when 'en' %}Search
-                {% when 'de' %}Suchen
-                {% when 'it' %}Cerca
-                {% else %}Buscar
-              {% endcase %}
-            </span>
+            <span id="nav-search-text">Search</span>
           </a>
         </li>
       {%- endif -%}

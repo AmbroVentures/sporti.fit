@@ -3,18 +3,22 @@ es:
   locale: "es_ES"
   hreflang: ["es", "es-ES"]
   name: "Español"
+  short: "ES"
   
 en:
   locale: "en_US"
   hreflang: ["en", "en-US", "en-GB"]
   name: "English"
+  short: "EN"
   
 de:
   locale: "de_DE"
   hreflang: ["de", "de-DE", "de-CH", "de-AT"]
   name: "Deutsch"
+  short : "DE"
   
 it:
   locale: "it_IT"
   hreflang: ["it", "it-IT"]
   name: "Italiano"
+  short: "IT"

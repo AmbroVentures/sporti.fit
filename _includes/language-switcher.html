@@ -9,20 +9,19 @@
   {% if current_lang == site.default_lang %}
     {% assign base_url = page.url %}
   {% else %}
-    <!-- For non-default languages, find the equivalent default language page --><!-- For non-default languages, find the equivalent default language page -->
+    <!-- For non-default languages, find the equivalent default language page -->
     {% assign default_page = site.pages | where:"ref", current_page_ref | where_exp: "item", "item.lang == site.default_lang or item.lang == nil" | first %}
     {% if default_page %}
       {% assign base_url = default_page.url %}
     {% else %}
-      <!-- Fallback: construct base URL by removing language prefix -->
-      {% assign base_url = page.url | remove_first: '/' | split: '/' | slice: 1, 100 | join: '/' | prepend: '/' %}
+      {% assign base_url = '/translation-not-found' %}
     {% endif %}
   {% endif %}
 
   <div class="dropdown">
     <button class="btn btn-sm btn-outline-secondary dropdown-toggle" type="button" id="languageDropdown" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
       <i class="fas fa-globe"></i>
-      {{ locales[current_lang].name | default: current_lang | upcase }}
+      {{ locales[current_lang].short | default: current_lang | upcase }}
     </button>
     <div class="dropdown-menu" aria-labelledby="languageDropdown">
       {% for lang in site.languages %}
@@ -35,9 +34,9 @@
             {% assign lang_url = lang_page.url %}
           {% else %}
             {% if lang == site.default_lang %}
-              {% assign lang_url = base_url %}
+              {% assign lang_url = '/' | append: base_url %}
             {% else %}
-              {% assign lang_url = '/' | append: lang | append: base_url %}
+              {% assign lang_url = '/' | append: lang }
             {% endif %}
           {% endif %}
           <a class="dropdown-item" href="{{ lang_url | relative_url }}">{{ lang_name }}</a>
