@@ -1,6 +1,6 @@
 <!-- _includes/language-switcher.html -->
 <div class="language-switcher">
-  {% assign pages=site.pages | where:"ref", page.ref | sort: 'lang' %}
+  {% assign translations=site.pages | where:"ref", page.ref | sort: 'lang' %}
   {% assign current_page_ref = page.ref %}
   {% assign current_lang = page.lang | default: site.default_lang %}
   {% assign locales = site.data.locales %}
@@ -10,7 +10,7 @@
     {% assign base_url = page.url %}
   {% else %}
     <!-- For non-default languages, find the equivalent default language page -->
-    {% assign default_page = site.pages | where:"ref", current_page_ref | where:"lang", nil | first %}
+    {% assign default_page = translations | where:"lang", nil | first %}
     {% if default_page %}
       {% assign base_url = default_page.url %}
     {% else %}
@@ -25,11 +25,11 @@
     </button>
     <div class="dropdown-menu" aria-labelledby="languageDropdown">
       {% for lang in site.languages %}
-        {% assign lang_name = locales[lang].name | default: lang | capitalize %}
+        {% assign lang_dd = locales[lang].short | default: lang | capitalize %}
         {% if lang == current_lang %}
-          <span class="dropdown-item active">{{ lang_name }}</span>
+          <span class="dropdown-item active">{{ lang_dd }}</span>
         {% else %}
-          {% assign lang_page = pages | where:"lang", lang | first %}
+          {% assign lang_page = translations | where:"lang", lang | first %}
           {% if lang_page %}
             {% assign lang_url = lang_page.url %}
           {% else %}
