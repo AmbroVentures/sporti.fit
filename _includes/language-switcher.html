@@ -8,7 +8,7 @@
     {% assign base_url = page.url %}
   {% else %}
     {% assign lang_page = translations | where:"lang", site.default_lang | first %}
-    {% assign default_page = translations | sort: 'lang' | last %}
+    {% assign default_page = translations | first %}
     {% if lang_page %}
       {% assign base_url = lang_page.url %}
     {% else %}
@@ -17,7 +17,7 @@
   {% endif %}
 
   <div class="nav-item dropdown">
-    <button class="btn btn-sm btn-outline-secondary nav-link dropdown-toggle" type="button" id="languageDropdown" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+    <button class="nav-link" type="button" id="languageDropdown" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
       <i class="fas fa-globe"></i>
     </button>
     <div class="dropdown-menu" aria-labelledby="languageDropdown">
