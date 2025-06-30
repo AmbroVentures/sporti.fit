@@ -1,20 +1,8 @@
 <div class="language-switcher">
   {% assign translations=site.pages | where:"ref", page.ref | sort: 'lang' %}
+  {% assign default_page = translations | first %}
   {% assign current_lang = page.lang | default: site.default_lang %}
   {% assign locales = site.data.locales %}
-
-  {% comment %} Find base URL {% endcomment %}
-  {% if current_lang == site.default_lang %}
-    {% assign base_url = page.url %}
-  {% else %}
-    {% assign lang_page = translations | where:"lang", site.default_lang | first %}
-    {% assign default_page = translations | first %}
-    {% if lang_page %}
-      {% assign base_url = lang_page.url %}
-    {% else %}
-      {% assign base_url = default_page.url %}
-    {% endif %}
-  {% endif %}
 
   <div class="nav-item dropdown">
     <button class="btn btn-sm nav-link" type="button" id="languageDropdown" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
@@ -30,11 +18,7 @@
           {% if lang_page %}
             {% assign lang_url = lang_page.url %}
           {% else %}
-            {% if lang == site.default_lang %}
-              {% assign lang_url = base_url %}
-            {% else %}
-              {% assign lang_url = '/' | append: lang | append: base_url %}
-            {% endif %}
+            {% assign lang_url = default_page.url %}
           {% endif %}
           <a class="dropdown-item" href="{{ lang_url | relative_url }}">{{ lang_dd }}</a>
         {% endif %}
