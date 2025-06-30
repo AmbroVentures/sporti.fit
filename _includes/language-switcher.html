@@ -1,7 +1,5 @@
-<!-- _includes/language-switcher.html -->
 <div class="language-switcher">
   {% assign translations=site.pages | where:"ref", page.ref | sort: 'lang' %}
-  {% assign current_page_ref = page.ref %}
   {% assign current_lang = page.lang | default: site.default_lang %}
   {% assign locales = site.data.locales %}
 
