@@ -1,82 +1,46 @@
 <!-- _includes/language-switcher.html -->
 <div class="language-switcher">
-  {% assign current_lang = page.lang | default: site.default_lang %}
+  {% assign pages=site.pages | where:"ref", page.ref | sort: 'lang' %}
   {% assign current_page_ref = page.ref %}
-  
-  <!-- Find all pages with the same ref (translations of current page) -->
-  {% assign translations = site.pages | where:"ref", current_page_ref %}
-  
-  <!-- For pages without ref (like index), use a fallback system -->
-  {% unless current_page_ref %}
-    {% assign current_page_ref = "index" %}
-    {% assign translations = site.pages | where:"name", "index.html" %}
-  {% endunless %}
-  
+  {% assign current_lang = page.lang | default: site.default_lang %}
+  {% assign locales = site.data.locales %}
+
+  <!-- For default language pages, find the base URL -->
+  {% if current_lang == site.default_lang %}
+    {% assign base_url = page.url %}
+  {% else %}
+    <!-- For non-default languages, find the equivalent default language page -->
+    {% assign default_page = site.pages | where:"ref", current_page_ref | where:"lang", nil | first %}
+    {% if default_page %}
+      {% assign base_url = default_page.url %}
+    {% else %}
+      <!-- Fallback: construct base URL by removing language prefix -->
+      {% assign base_url = page.url | remove_first: '/' | append: current_lang | append: '/' %}
+    {% endif %}
+  {% endif %}
+
   <div class="dropdown">
     <button class="btn btn-sm btn-outline-secondary dropdown-toggle" type="button" id="languageDropdown" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
       <i class="fas fa-globe"></i>
-      {% case current_lang %}
-        {% when 'es' %}<span class="flag-icon">🇪🇸</span> ES
-        {% when 'en' %}<span class="flag-icon">🇬🇧</span> EN
-        {% when 'de' %}<span class="flag-icon">🇩🇪</span> DE
-        {% when 'it' %}<span class="flag-icon">🇮🇹</span> IT
-        {% else %}<span class="flag-icon">🌐</span> {{ current_lang | upcase }}
-      {% endcase %}
+      {{ locales[current_lang].name | default: current_lang | upcase }}
     </button>
-    <div class="dropdown-menu dropdown-menu-right" aria-labelledby="languageDropdown">
+    <div class="dropdown-menu" aria-labelledby="languageDropdown">
       {% for lang in site.languages %}
+        {% assign lang_name = locales[lang].name | default: lang | capitalize %}
         {% if lang == current_lang %}
-          <!-- Current language - show as active -->
-          <span class="dropdown-item active">
-            {% case lang %}
-              {% when 'es' %}<span class="flag-icon">🇪🇸</span> Español
-              {% when 'en' %}<span class="flag-icon">🇬🇧</span> English
-              {% when 'de' %}<span class="flag-icon">🇩🇪</span> Deutsch
-              {% when 'it' %}<span class="flag-icon">🇮🇹</span> Italiano
-              {% else %}<span class="flag-icon">🌐</span> {{ site.language_names[lang] | default: lang | capitalize }}
-            {% endcase %}
-          </span>
+          <span class="dropdown-item active">{{ lang_name }}</span>
         {% else %}
-          <!-- Other languages - create links -->
-          {% assign lang_url = "" %}
-          
-          <!-- Handle index pages specially -->
-          {% if page.name == "index.html" or page.url == "/" %}
-            {% if lang == site.default_lang %}
-              {% assign lang_url = "/" %}
-            {% else %}
-              {% assign lang_url = "/" | append: lang | append: "/" %}
-            {% endif %}
+          {% assign lang_page = pages | where:"lang", lang | first %}
+          {% if lang_page %}
+            {% assign lang_url = lang_page.url %}
           {% else %}
-            <!-- Try to find translation with same ref -->
-            {% assign lang_page = translations | where:"lang", lang | first %}
-            {% if lang_page %}
-              {% assign lang_url = lang_page.url %}
+            {% if lang == site.default_lang %}
+              {% assign lang_url = base_url %}
             {% else %}
-              <!-- Fallback: construct URL based on current page -->
-              {% if lang == site.default_lang %}
-                <!-- For default language, remove lang prefix from URL -->
-                {% assign lang_url = page.url | replace_first: "/" | append: current_lang | append: "/", "/" %}
-              {% else %}
-                <!-- For other languages, replace or add lang prefix -->
-                {% if current_lang == site.default_lang %}
-                  {% assign lang_url = "/" | append: lang | append: page.url %}
-                {% else %}
-                  {% assign lang_url = page.url | replace_first: "/" | append: current_lang | append: "/", "/" | append: lang | append: "/" %}
-                {% endif %}
-              {% endif %}
+              {% assign lang_url = '/' | append: lang | append: base_url %}
             {% endif %}
           {% endif %}
-          
-          <a class="dropdown-item" href="{{ lang_url | relative_url }}">
-            {% case lang %}
-              {% when 'es' %}<span class="flag-icon">🇪🇸</span> Español
-              {% when 'en' %}<span class="flag-icon">🇬🇧</span> English
-              {% when 'de' %}<span class="flag-icon">🇩🇪</span> Deutsch
-              {% when 'it' %}<span class="flag-icon">🇮🇹</span> Italiano
-              {% else %}<span class="flag-icon">🌐</span> {{ site.language_names[lang] | default: lang | capitalize }}
-            {% endcase %}
-          </a>
+          <a class="dropdown-item" href="{{ lang_url | relative_url }}">{{ lang_name }}</a>
         {% endif %}
       {% endfor %}
     </div>
@@ -91,24 +55,16 @@
 .language-switcher .btn {
   border-color: var(--navbar-text-col);
   color: var(--navbar-text-col);
-  font-size: 0.875rem;
 }
 
-.language-switcher .btn:hover,
-.language-switcher .btn:focus {
+.language-switcher .btn:hover {
   background-color: var(--hover-col);
   border-color: var(--hover-col);
   color: white;
 }
 
 .language-switcher .dropdown-menu {
-  min-width: 140px;
-  border: 1px solid var(--navbar-border-col);
-}
-
-.language-switcher .dropdown-item {
-  padding: 0.5rem 1rem;
-  font-size: 0.875rem;
+  min-width: 120px;
 }
 
 .language-switcher .dropdown-item.active {
@@ -117,34 +73,9 @@
   font-weight: bold;
 }
 
-.language-switcher .dropdown-item:hover {
-  background-color: var(--hover-col);
-  color: white;
-}
-
-/* Flag icon styling for better emoji support */
-.flag-icon {
-  font-family: "Apple Color Emoji", "Segoe UI Emoji", "Noto Color Emoji", "Android Emoji", "EmojiSymbols", "EmojiOne Mozilla", "Twemoji Mozilla", "Segoe UI Symbol", sans-serif;
-  font-size: 1.1em;
-  margin-right: 0.5rem;
-  display: inline-block;
-}
-
-/* Fallback for browsers that don't support color emojis */
-@supports not (font-variation-settings: normal) {
-  .flag-icon {
-    font-family: "Segoe UI Emoji", "Apple Color Emoji", "Noto Color Emoji", sans-serif;
-  }
-}
-
 @media (max-width: 991px) {
   .language-switcher {
     margin: 10px 0;
-    margin-left: 0;
-  }
-  
-  .language-switcher .btn {
-    width: 100%;
   }
 }
 </style>
