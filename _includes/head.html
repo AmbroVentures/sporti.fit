@@ -33,6 +33,42 @@
 
   <title>{{ title }}</title>
 
+  <!-- Multilanguage Support -->
+  {% assign current_lang = page.lang | default: site.default_lang %}
+  
+  {% comment %} Generate hreflang tags dynamically {% endcomment %}
+  {% if page.ref %}
+    {% assign translations = site.pages | where:"ref", page.ref %}
+    {% for translation in translations %}
+      {% assign trans_lang = translation.lang | default: site.default_lang %}
+      {% assign locale_data = site.data.locales[trans_lang] %}
+      {% if locale_data %}
+        {% for hreflang in locale_data.hreflang %}
+          <link rel="alternate" hreflang="{{ hreflang }}" href="{{ translation.url | absolute_url }}" />
+        {% endfor %}
+      {% endif %}
+    {% endfor %}
+    
+    {% comment %} Default fallback {% endcomment %}
+    <link rel="alternate" hreflang="x-default" href="{{ '/' | absolute_url }}" />
+  {% endif %}
+
+  {% comment %} Open Graph locale - dynamic {% endcomment %}
+  {% assign current_locale_data = site.data.locales[current_lang] %}
+  {% if current_locale_data %}
+    <meta property="og:locale" content="{{ current_locale_data.locale }}">
+    
+    {% comment %} Alternate locales for other languages {% endcomment %}
+    {% for lang in site.languages %}
+      {% unless lang == current_lang %}
+        {% assign alt_locale_data = site.data.locales[lang] %}
+        {% if alt_locale_data %}
+          <meta property="og:locale:alternate" content="{{ alt_locale_data.locale }}">
+        {% endif %}
+      {% endunless %}
+    {% endfor %}
+  {% endif %}
+
   {% capture author %}
     {%- if page.author -%}
       {{  page.author | strip_html }}

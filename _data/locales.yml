@@ -1,0 +1,20 @@
+# Add this to _data/locales.yml
+es:
+  locale: "es_ES"
+  hreflang: ["es", "es-ES"]
+  name: "Español"
+  
+en:
+  locale: "en_US"
+  hreflang: ["en", "en-US", "en-GB"]
+  name: "English"
+  
+de:
+  locale: "de_DE"
+  hreflang: ["de", "de-DE", "de-CH", "de-AT"]
+  name: "Deutsch"
+  
+it:
+  locale: "it_IT"
+  hreflang: ["it", "it-IT"]
+  name: "Italiano"

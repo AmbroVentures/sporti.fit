@@ -1,0 +1,105 @@
+<!-- _includes/language-switcher.html -->
+<div class="language-switcher">
+  {% assign pages=site.pages | where:"ref", page.ref | sort: 'lang' %}
+  
+  <!-- Find the current page's base URL for default language -->
+  {% assign current_page_ref = page.ref %}
+  {% assign current_lang = page.lang | default: site.default_lang %}
+  
+  <!-- For default language pages, find the base URL -->
+  {% if current_lang == site.default_lang %}
+    {% assign base_url = page.url %}
+  {% else %}
+    <!-- For non-default languages, find the equivalent default language page -->
+    {% assign default_page = site.pages | where:"ref", current_page_ref | where:"lang", nil | first %}
+    {% if default_page %}
+      {% assign base_url = default_page.url %}
+    {% else %}
+      <!-- Fallback: construct base URL by removing language prefix -->
+      {% assign base_url = page.url | remove_first: '/' | append: current_lang | append: '/' %}
+    {% endif %}
+  {% endif %}
+  
+  <div class="dropdown">
+    <button class="btn btn-sm btn-outline-secondary dropdown-toggle" type="button" id="languageDropdown" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+      <i class="fas fa-globe"></i>
+      {% assign current_lang = page.lang | default: site.default_lang %}
+      {% case current_lang %}
+        {% when 'es' %}🇪🇸 ES
+        {% when 'en' %}🇬🇧 EN
+        {% when 'de' %}🇩🇪 DE
+        {% when 'it' %}🇮🇹 IT
+        {% else %}🌐 {{ current_lang | upcase }}
+      {% endcase %}
+    </button>
+    <div class="dropdown-menu" aria-labelledby="languageDropdown">
+      {% for lang in site.languages %}
+        {% assign current_lang = page.lang | default: site.default_lang %}
+        {% if lang == current_lang %}
+          <span class="dropdown-item active">
+            {% case lang %}
+              {% when 'es' %}🇪🇸 Español
+              {% when 'en' %}🇬🇧 English
+              {% when 'de' %}🇩🇪 Deutsch
+              {% when 'it' %}🇮🇹 Italiano
+              {% else %}🌐 {{ site.language_names[lang] | default: lang | capitalize }}
+            {% endcase %}
+          </span>
+        {% else %}
+          {% assign lang_page = pages | where:"lang", lang | first %}
+          {% if lang_page %}
+            {% assign lang_url = lang_page.url %}
+          {% else %}
+            {% if lang == site.default_lang %}
+              {% assign lang_url = base_url %}
+            {% else %}
+              {% assign lang_url = '/' | append: lang | append: base_url %}
+            {% endif %}
+          {% endif %}
+          <a class="dropdown-item" href="{{ lang_url | relative_url }}">
+            {% case lang %}
+              {% when 'es' %}🇪🇸 Español
+              {% when 'en' %}🇬🇧 English
+              {% when 'de' %}🇩🇪 Deutsch
+              {% when 'it' %}🇮🇹 Italiano
+              {% else %}🌐 {{ site.language_names[lang] | default: lang | capitalize }}
+            {% endcase %}
+          </a>
+        {% endif %}
+      {% endfor %}
+    </div>
+  </div>
+</div>
+
+<style>
+.language-switcher {
+  margin-left: 15px;
+}
+
+.language-switcher .btn {
+  border-color: var(--navbar-text-col);
+  color: var(--navbar-text-col);
+}
+
+.language-switcher .btn:hover {
+  background-color: var(--hover-col);
+  border-color: var(--hover-col);
+  color: white;
+}
+
+.language-switcher .dropdown-menu {
+  min-width: 120px;
+}
+
+.language-switcher .dropdown-item.active {
+  background-color: var(--link-col);
+  color: white;
+  font-weight: bold;
+}
+
+@media (max-width: 991px) {
+  .language-switcher {
+    margin: 10px 0;
+  }
+}
+</style>

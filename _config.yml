@@ -15,30 +15,43 @@ title: Sporti
 # Your name to show in the footer
 author: Robert Ambrosini
 
+#################################
+# --- Multilanguage Support --- #
+#################################
+languages: ["es", "en", "de", "it"]  # Spanish (default), English, German, Italian
+default_lang: "es"
+
+# Language-specific configurations
+language_names:
+  es: "Español"
+  en: "English" 
+  de: "Deutsch"
+  it: "Italiano"
+
 ###############################################
 # --- List of links in the navigation bar --- #
 ###############################################
 
-navbar-links:
-  Acerca de: 
-    - Sporti: "p/about"
-    - Entrenadores: "p/trainers"
-  Clases:
-    - Clases Presenciales: "p/clases/presenciales"
-    - Video Clases: "p/clases/video"
-#    - Entrenamiento a Distancia: "p/clases/distancia"
-#    - Nutricion: "p/clases/nutricion"
-  Localidad: "p/location"
-  Impresión:
-    - El Gym: "p/impressions/gym"
-    - Eventos: "p/impressions/events"
-#    - Classes y Formaciones:
-  Shop: "p/shop"
-  Más:
-    - AmbroVentures: "https://ambro.ventures"
-#    - FAQ: "p/faq"
-#    - Beautiful Jekyll: "https://beautifuljekyll.com"
-#    - Learn markdown: "https://www.markdowntutorial.com/"
+#navbar-links:
+#  Acerca de: 
+#    - Sporti: "p/about"
+#    - Entrenadores: "p/trainers"
+#  Clases:
+#    - Clases Presenciales: "p/clases/presenciales"
+#    - Video Clases: "p/clases/video"
+##    - Entrenamiento a Distancia: "p/clases/distancia"
+##    - Nutricion: "p/clases/nutricion"
+#  Localidad: "p/location"
+#  Impresión:
+#    - El Gym: "p/impressions/gym"
+#    - Eventos: "p/impressions/events"
+##    - Classes y Formaciones:
+#  Shop: "p/shop"
+#  Más:
+#    - AmbroVentures: "https://ambro.ventures"
+##    - FAQ: "p/faq"
+##    - Beautiful Jekyll: "https://beautifuljekyll.com"
+##    - Learn markdown: "https://www.markdowntutorial.com/"
 
 ################
 # --- Logo --- #

@@ -1,0 +1,39 @@
+# _data/navigation.yml
+es:
+  Acerca de: 
+    - Sporti: "p/about"
+    - Entrenadores: "p/trainers"
+  Clases:
+    - Clases Presenciales: "p/clases/presenciales"
+    - Video Clases: "p/clases/video"
+  Localidad: "p/location"
+  Impresión:
+    - El Gym: "p/impressions/gym"
+    - Eventos: "p/impressions/events"
+  Shop: "p/shop"
+
+en:
+  About: 
+    - Sporti: "p/about"
+    - Trainers: "p/trainers"
+  Classes:
+    - In-Person Classes: "p/classes/in-person"
+    - Video Classes: "p/classes/video"
+  Location: "p/location"
+  Gallery:
+    - The Gym: "p/gallery/gym"
+    - Events: "p/gallery/events"
+  Shop: "p/shop"
+
+it:
+  Chi Siamo: 
+    - Sporti: "p/about"
+    - Istruttori: "p/trainers"
+  Corsi:
+    - Corsi in Presenza: "p/corsi/presenza"
+    - Video Corsi: "p/corsi/video"
+  Località: "p/location"
+  Galleria:
+    - La Palestra: "p/galleria/gym"
+    - Eventi: "p/galleria/events"
+  Shop: "p/shop"
