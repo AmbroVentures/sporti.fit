@@ -18,20 +18,13 @@ author: Robert Ambrosini
 #################################
 # --- Multilanguage Support --- #
 #################################
-languages: ["es", "en", "de", "it"]  # Spanish (default), English, German, Italian
+languages: ["es", "en", "it"]
 default_lang: "es"
-
-# Language-specific configurations
-language_names:
-  es: "Español"
-  en: "English" 
-  de: "Deutsch"
-  it: "Italiano"
 
 ###############################################
 # --- List of links in the navigation bar --- #
 ###############################################
-
+# --- moved to _data/navigation.yml
 #navbar-links:
 #  Acerca de: 
 #    - Sporti: "p/about"
