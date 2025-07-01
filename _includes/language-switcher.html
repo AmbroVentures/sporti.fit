@@ -1,5 +1,6 @@
 <div class="language-switcher">
-  {% assign translations=site.pages | where:"ref", page.ref | sort: 'lang' %}
+  {% assign lkp_ref = page.ref | default: 'index' %}
+  {% assign translations = site.pages | where:"ref", lkp_ref | sort: 'lang' %}
   {% assign default_page = translations | first %}
   {% assign current_lang = page.lang | default: site.default_lang %}
   {% assign locales = site.data.locales %}
@@ -14,12 +15,8 @@
         {% if lang == current_lang %}
           <span class="dropdown-item active">{{ lang_dd }}</span>
         {% else %}
-          {% assign lang_page = translations | where:"lang", lang | first %}
-          {% if lang_page %}
-            {% assign lang_url = lang_page.url %}
-          {% else %}
-            {% assign lang_url = default_page.url %}
-          {% endif %}
+          {% assign lang_page = translations | where:"lang", lang %}
+          {% assign lang_url = lang_page.url | default: default_page.url %}
           <a class="dropdown-item" href="{{ lang_url | relative_url }}">{{ lang_dd }}</a>
         {% endif %}
       {% endfor %}
