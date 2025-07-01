@@ -1,7 +1,7 @@
 ---
 layout: page
 title: INVICTO 2025
-subtitle: Upcoming Event
+subtitle: Próximo Evento
 cover-img: /assets/img/cover-invicto.jpg
 ref: invicto25
 ---
@@ -15,123 +15,123 @@ ref: invicto25
   </iframe>
 </div>
 
-**INVICTO** is a 3-day exclusive event that takes indoor cycling to the next level — with rides in unforgettable locations like the beach, on a catamaran, or by the pool of a 5-star resort. Those who cycle hard deserve a proper reward. That’s why every ride is followed by an optional lunch or dinner party — because the celebration is part of the experience.
+**INVICTO** es un evento exclusivo de 3 días que lleva el ciclismo indoor al siguiente nivel — con entrenamientos en ubicaciones inolvidables como la playa, en un catamarán, o junto a la piscina de un resort de 5 estrellas. Quienes pedalean duro merecen una recompensa adecuada. Por eso cada entrenamiento va seguido de un almuerzo o cena opcional — porque la celebración es parte de la experiencia.
 
-On this page you will find all details and up-to-date information about the event.
+En esta página encontrarás todos los detalles e información actualizada sobre el evento.
 
 <!-- Ticket Tailor: All events (https://app.tickettailor.com/widget-embed-codes) -->
-<div class="tt-widget"><div class="tt-widget-fallback"><p><a href="https://www.tickettailor.com/all-tickets/sporti/?ref=website_widget&show_search_filter=true&show_date_filter=true&show_sort=true" target="_blank">Click here to buy tickets</a><br /><small><a href="https://www.tickettailor.com?rf=wdg_252091" class="tt-widget-powered">Sell tickets online with Ticket Tailor</a></small></p></div><script src="https://cdn.tickettailor.com/js/widgets/min/widget.js" data-url="https://www.tickettailor.com/all-tickets/sporti/?ref=website_widget&show_search_filter=true&show_date_filter=true&show_sort=true" data-type="inline" data-inline-minimal="false" data-inline-show-logo="false" data-inline-bg-fill="true" data-inline-inherit-ref-from-url-param="" data-inline-ref="website_widget"></script></div>
+<div class="tt-widget"><div class="tt-widget-fallback"><p><a href="https://www.tickettailor.com/all-tickets/sporti/?ref=website_widget&show_search_filter=true&show_date_filter=true&show_sort=true" target="_blank">Haz clic aquí para comprar entradas</a><br /><small><a href="https://www.tickettailor.com?rf=wdg_252091" class="tt-widget-powered">Vende entradas online con Ticket Tailor</a></small></p></div><script src="https://cdn.tickettailor.com/js/widgets/min/widget.js" data-url="https://www.tickettailor.com/all-tickets/sporti/?ref=website_widget&show_search_filter=true&show_date_filter=true&show_sort=true" data-type="inline" data-inline-minimal="false" data-inline-show-logo="false" data-inline-bg-fill="true" data-inline-inherit-ref-from-url-param="" data-inline-ref="website_widget"></script></div>
 
-## 🧭 Schedule & Locations
+## 🧭 Horario y Ubicaciones
 
-The event will take place in **Málaga** from **10th to 12th October, 2025**. Multiple time slots will be available each day for rides and other activities.
+El evento tendrá lugar en **Málaga** del **10 al 12 de octubre de 2025**. Habrá múltiples horarios disponibles cada día para entrenamientos y otras actividades.
 
-### 📅 Friday, 10.10.2025
+### 📅 Viernes, 10.10.2025
 
 **[![📍](/assets/img/google-maps-32p.png)Higuerón Hotel](https://maps.app.goo.gl/TFXyG9A6kBvdFKBs7){:target="_blank"}**,
  Curio Collection by Hilton, Av. del Higuerón, 48, 29640 Fuengirola, Málaga
 
-🕖 **18:00** - 🚴 2h **Ride** by the [Lago Pool](){:target="_blank"} with
+🕖 **18:00** - 🚴 2h **Entrenamiento** junto a la [Piscina Lago](){:target="_blank"} con
  [David](https://www.instagram.com/davidperezaquerreta){:target="_blank"},
  [João](https://www.instagram.com/ptjoaovalente){:target="_blank"},
- [Beppe](https://www.instagram.com/beppemeglio){:target="_blank"}, and
+ [Beppe](https://www.instagram.com/beppemeglio){:target="_blank"}, y
  [Robbie](/p/trainers)
 
-🕘 **21:00** - 🍽️🎉 **Dinner & Party** at [Lago Pool](){:target="_blank"} or [Infinity Rooftop Bar](https://www.instagram.com/infinity_rooftop?igsh=NGdlc3RpNnZ5em5n){:target="_blank"} depending on the number of applicants
+🕘 **21:00** - 🍽️🎉 **Cena y Fiesta** en [Piscina Lago](){:target="_blank"} o [Infinity Rooftop Bar](https://www.instagram.com/infinity_rooftop?igsh=NGdlc3RpNnZ5em5n){:target="_blank"} dependiendo del número de participantes
 
-### 📅 Saturday, 11.10.2025 (morning)
+### 📅 Sábado, 11.10.2025 (mañana)
 
 **[![📍](/assets/img/google-maps-32p.png)Muelle Uno](https://maps.app.goo.gl/PPqABMhNpAQTNfpa9){:target="_blank"}**, P.º del Muelle Uno, 4, Distrito Centro, 29016 Málaga
 
-🕙 **10:00** - 🛥️ **Catamaran** 3h Roundtrip
+🕙 **10:00** - 🛥️ **Catamarán** 3h Viaje de ida y vuelta
 
-🕙 **10:10** - 🚴 1h **Ride** with
+🕙 **10:10** - 🚴 1h **Entrenamiento** con
  [Alex](https://www.instagram.com/alexfitnesslife){:target="_blank"},
- [Attilio](https://www.instagram.com/attilio.conte){:target="_blank"}, and
+ [Attilio](https://www.instagram.com/attilio.conte){:target="_blank"}, y
  [Robbie](/p/trainers)
 
-🕙 **11:30** - 🚴 1h **Ride** with
+🕙 **11:30** - 🚴 1h **Entrenamiento** con
  [David](https://www.instagram.com/davidperezaquerreta){:target="_blank"},
  [João](https://www.instagram.com/ptjoaovalente){:target="_blank"},
- [Beppe](https://www.instagram.com/beppemeglio){:target="_blank"}, and
+ [Beppe](https://www.instagram.com/beppemeglio){:target="_blank"}, y
  [Robbie](/p/trainers)
 
-📢 Everybody on board at 10 o'clock!
+📢 ¡Todos a bordo a las 10 en punto!
 
-🕙 **13:30** - 🍽️ **Lunch** at [O Mamma Mia](https://www.omammamia.com/){:target="_blank"} ([![📍](/assets/img/google-maps-16p.png)Local G](https://maps.app.goo.gl/GABkW4wtx6GvBXvTA){:target="_blank"})
+🕙 **13:30** - 🍽️ **Almuerzo** en [O Mamma Mia](https://www.omammamia.com/){:target="_blank"} ([![📍](/assets/img/google-maps-16p.png)Local G](https://maps.app.goo.gl/GABkW4wtx6GvBXvTA){:target="_blank"})
 
-### 📅 Saturday, 11.10.2025 (evening)
+### 📅 Sábado, 11.10.2025 (tarde)
 
 **[![📍](/assets/img/google-maps-32p.png)Beach Club Higuerón](https://maps.app.goo.gl/Z57YycML1ffvRcDF9){:target="_blank"}**, Av. del Sol, 225, 29631 Benalmádena, Málaga
 
-🕖 **18:00** - 🚴 2h **Ride** at the [Beach Club Higuerón](https://thebeachclubhigueron.com/){:target="_blank"} with
+🕖 **18:00** - 🚴 2h **Entrenamiento** en el [Beach Club Higuerón](https://thebeachclubhigueron.com/){:target="_blank"} con
  [David](https://www.instagram.com/davidperezaquerreta){:target="_blank"},
  [João](https://www.instagram.com/ptjoaovalente){:target="_blank"},
- [Beppe](https://www.instagram.com/beppemeglio){:target="_blank"}, and
+ [Beppe](https://www.instagram.com/beppemeglio){:target="_blank"}, y
  [Robbie](/p/trainers)
 
-🕘 **21:00** - 🍽️🎉 **Dinner & Party** at [Infinity Rooftop Bar](https://www.instagram.com/infinity_rooftop?igsh=NGdlc3RpNnZ5em5n){:target="_blank"} in **[![📍](/assets/img/google-maps-16p.png)Higuerón Hotel](https://maps.app.goo.gl/TFXyG9A6kBvdFKBs7){:target="_blank"}**
+🕘 **21:00** - 🍽️🎉 **Cena y Fiesta** en [Infinity Rooftop Bar](https://www.instagram.com/infinity_rooftop?igsh=NGdlc3RpNnZ5em5n){:target="_blank"} en el **[![📍](/assets/img/google-maps-16p.png)Higuerón Hotel](https://maps.app.goo.gl/TFXyG9A6kBvdFKBs7){:target="_blank"}**
 
-### 📅 Sunday, 12.10.2025
+### 📅 Domingo, 12.10.2025
 
 **[![📍](/assets/img/google-maps-32p.png)Sala Pilates FIT Reformer](https://maps.app.goo.gl/6xjDATnaRcxikdyH7){:target="_blank"}**, Av. 8 de Marzo, 29640 Fuengirola, Málaga  
-(below [![📍](/assets/img/google-maps-16p.png)Tennis Center Higueron Resort](https://maps.app.goo.gl/x7zyfmfmD8hon7GK9){:target="_blank"})
+(debajo del [![📍](/assets/img/google-maps-16p.png)Tennis Center Higueron Resort](https://maps.app.goo.gl/x7zyfmfmD8hon7GK9){:target="_blank"})
 
-🕚 **11:00** - 🧘 **Pilates** with [Pedraza](https://www.instagram.com/begopedrazapilates){:target="_blank"}
+🕚 **11:00** - 🧘 **Pilates** con [Pedraza](https://www.instagram.com/begopedrazapilates){:target="_blank"}
 
-🕛 **12:00** - 🧘 **Pilates** with [Pedraza](https://www.instagram.com/begopedrazapilates){:target="_blank"}
+🕛 **12:00** - 🧘 **Pilates** con [Pedraza](https://www.instagram.com/begopedrazapilates){:target="_blank"}
 
-## 🏨 Accommodation
+## 🏨 Alojamiento
 
-For accommodation, we recommend staying at the [Higuerón Hotel](https://www.hilton.com/en/hotels/agprhqq-higueron-hotel-malaga/){:target="_blank"},
-which will host much of the event and is offering special rates. Use this exclusive link to get a **20% discount**: _[link will be published soon]_
+Para el alojamiento, recomendamos quedarse en el [Higuerón Hotel](https://www.hilton.com/en/hotels/agprhqq-higueron-hotel-malaga/){:target="_blank"},
+que será sede de gran parte del evento y ofrece tarifas especiales. Usa este enlace exclusivo para obtener un **20% de descuento**: _[el enlace se publicará próximamente]_
 
-## 🏷️ Promotion for Partner Members
+## 🏷️ Promoción para Miembros Asociados
 
-We offer **special discounts for members** of our partners [FIB&FIT](https://www.fibefit.it/){:target="_blank"} and [Ón Sport Club](https://higueronsportclub.com/es/){:target="_blank"}, ranging from **€5 to €10 off** any sport activity. Contact your club representative for your exclusive **promo code**, and don’t forget to apply it during checkout.
+Ofrecemos **descuentos especiales para miembros** de nuestros socios [FIB&FIT](https://www.fibefit.it/){:target="_blank"} y [Ón Sport Club](https://higueronsportclub.com/es/){:target="_blank"}, que van desde **5€ a 10€ de descuento** en cualquier actividad deportiva. Contacta al representante de tu club para obtener tu **código promocional** exclusivo, y no olvides aplicarlo durante la compra.
 
-## 🎟️ Get Your Tickets
+## 🎟️ Consigue tus Entradas
 <!-- Ticket Tailor: All events (https://app.tickettailor.com/widget-embed-codes) -->
-<div class="tt-widget"><div class="tt-widget-fallback"><p><a href="https://www.tickettailor.com/all-tickets/sporti/?ref=website_widget&show_search_filter=true&show_date_filter=true&show_sort=true" target="_blank">Click here to buy tickets</a><br /><small><a href="https://www.tickettailor.com?rf=wdg_252091" class="tt-widget-powered">Sell tickets online with Ticket Tailor</a></small></p></div><script src="https://cdn.tickettailor.com/js/widgets/min/widget.js" data-url="https://www.tickettailor.com/all-tickets/sporti/?ref=website_widget&show_search_filter=true&show_date_filter=true&show_sort=true" data-type="inline" data-inline-minimal="false" data-inline-show-logo="false" data-inline-bg-fill="true" data-inline-inherit-ref-from-url-param="" data-inline-ref="website_widget"></script></div>
+<div class="tt-widget"><div class="tt-widget-fallback"><p><a href="https://www.tickettailor.com/all-tickets/sporti/?ref=website_widget&show_search_filter=true&show_date_filter=true&show_sort=true" target="_blank">Haz clic aquí para comprar entradas</a><br /><small><a href="https://www.tickettailor.com?rf=wdg_252091" class="tt-widget-powered">Vende entradas online con Ticket Tailor</a></small></p></div><script src="https://cdn.tickettailor.com/js/widgets/min/widget.js" data-url="https://www.tickettailor.com/all-tickets/sporti/?ref=website_widget&show_search_filter=true&show_date_filter=true&show_sort=true" data-type="inline" data-inline-minimal="false" data-inline-show-logo="false" data-inline-bg-fill="true" data-inline-inherit-ref-from-url-param="" data-inline-ref="website_widget"></script></div>
 
-## 🎒 On-the-Day Prep
+## 🎒 Preparación para el Día del Evento
 
-Most activities will take place at the luxurious facilities of Higuerón Hotel, offering everything you need for a comfortable and premium experience.
+La mayoría de las actividades tendrán lugar en las lujosas instalaciones del Higuerón Hotel, ofreciendo todo lo que necesitas para una experiencia cómoda y premium.
 
-To help you make the most of the event, here are a few tips to keep in mind when preparing:
+Para ayudarte a aprovechar al máximo el evento, aquí tienes algunos consejos a tener en cuenta al prepararte:
 
-🕶️🧢🧴 Bring **sun protection** - sunglasses, a hat, and sunscreen are essential for the 🚴 **rides** and the 🛥️ **Catamaran** trip.
+🕶️🧢🧴 Trae **protección solar** - gafas de sol, sombrero y protector solar son esenciales para los **entrenamientos** y el viaje en **Catamarán**.
 
-👙👗 Pack **swimmwear** or a **change of clothes** for post-ride activities, dining, or chilling at the resort.
+👙👗 Lleva **ropa de baño** o **cambio de ropa** para las actividades posteriores al entrenamiento, cenas, o relajarse en el resort.
 
-💶 Bring some **cash** for snacks, drinks, or small purchases on the 🛥️ **Catamaran**.
+💶 Trae algo de **efectivo** para aperitivos, bebidas, o pequeñas compras en el **Catamarán**.
 
-## ❔ FAQ
+## ❔ Preguntas Frecuentes
 
 <details>
-  <summary>Do I need to print my ticket?</summary>
-  No need to print it unless you prefer to. We can scan your ticket directly from your phone — just make sure the QR code is visible, either in your email or as a screenshot. We also support Apple Wallet Passes.<br>
+  <summary>¿Necesito imprimir mi entrada?</summary>
+  No necesitas imprimirla a menos que lo prefieras. Podemos escanear tu entrada directamente desde tu teléfono — solo asegúrate de que el código QR sea visible, ya sea en tu email o como captura de pantalla. También soportamos Apple Wallet Passes.<br>
   <br>
 </details>
 <details>
-  <summary>Can I take a shower after the rides?</summary>
-  There are showers at Higueron Hotel and Beach Club but not on the Catamaran. There is however public tiolets in Muelle Uno where you can freshen up.<br>
+  <summary>¿Puedo ducharme después de los entrenamientos?</summary>
+  Hay duchas en el Higuerón Hotel y Beach Club pero no en el Catamarán. Sin embargo, hay aseos públicos en Muelle Uno donde puedes refrescarte.<br>
   <br>
 </details>
 <details>
-  <summary>Are there lockers and changing rooms?</summary>
-  There are changing rooms and lockers at Higueron Hotel for both internal and external guest, which may also be used when attending events at the Beach Club. The Catamaran, however, does not have changing rooms.<br>
+  <summary>¿Hay taquillas y vestuarios?</summary>
+  Hay vestuarios y taquillas en el Higuerón Hotel tanto para huéspedes internos como externos, que también pueden usarse al asistir a eventos en el Beach Club. El Catamarán, sin embargo, no tiene vestuarios.<br>
   <br>
 </details>
 <details>
-  <summary>What should I wear?</summary>
-  We recommend sportswear for the rides, and something comfortable or resort casual for the after-ride meals and events. You may want to bring swimwear for the Beach Club experience.<br>
+  <summary>¿Qué debo ponerme?</summary>
+  Recomendamos ropa deportiva para los entrenamientos, y algo cómodo o casual de resort para las comidas y eventos posteriores al entrenamiento. Puedes querer traer ropa de baño para la experiencia del Beach Club.<br>
   <br>
 </details>
 <details>
-  <summary>What if I have dietary requirements?</summary>
-  We’ll do our best to accommodate! Please contact us in advance to let us know of any allergies or dietary preferences, especially if you plan to attend the lunch or dinner parties.<br>
+  <summary>¿Qué pasa si tengo requisitos dietéticos?</summary>
+  ¡Haremos nuestro mejor esfuerzo para acomodarte! Por favor contáctanos con anticipación para informarnos de cualquier alergia o preferencia dietética, especialmente si planeas asistir a los almuerzos o cenas.<br>
   <br>
 </details>
 
-💬 Still have questions? Feel free to reach out using the contact buttons below — we’re happy to help!
+💬 ¿Aún tienes preguntas? No dudes en contactarnos usando los botones de contacto de abajo — ¡estaremos encantados de ayudarte!

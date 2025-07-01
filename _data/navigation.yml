@@ -25,6 +25,8 @@ en:
 #  Gallery:
 #    - The Gym: "p/gallery/gym"
 #    - Events: "p/gallery/events"
+  Events:
+    - INVICTO: "p/events/invicto-2025"
 #  Shop: "p/shop"
 
 it:
@@ -38,4 +40,6 @@ it:
 #  Galleria:
 #    - La Palestra: "p/galleria/gym"
 #    - Eventi: "p/galleria/events"
+  Eventi:
+    - INVICTO: "p/events/invicto-2025"
 #  Shop: "p/shop"
