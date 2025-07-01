@@ -24,12 +24,12 @@ On this page you will find all details and up-to-date information about the even
 
 ## 🧭 Schedule & Locations
 
-It will take place in **Málaga** from **10th to 12th October, 2025**. Multiple time slots will be available each day for rides and other activities.
+The event will take place in **Málaga** from **10th to 12th October, 2025**. Multiple time slots will be available each day for rides and other activities.
 
 ### 📅 Friday, 10.10.2025
 
-**[![📍](/assets/img/google-maps-32p.png)Higuerón Hotel](https://maps.app.goo.gl/TFXyG9A6kBvdFKBs7){:target="_blank"}**
-, Curio Collection by Hilton, Av. del Higuerón, 48, 29640 Fuengirola, Málaga
+**[![📍](/assets/img/google-maps-32p.png)Higuerón Hotel](https://maps.app.goo.gl/TFXyG9A6kBvdFKBs7){:target="_blank"}**,
+ Curio Collection by Hilton, Av. del Higuerón, 48, 29640 Fuengirola, Málaga
 
 🕖 **18:00** - 🚴 2h **Ride** by the [Lago Pool](){:target="_blank"} with
  [David](https://www.instagram.com/davidperezaquerreta){:target="_blank"},
@@ -60,7 +60,6 @@ It will take place in **Málaga** from **10th to 12th October, 2025**. Multiple 
 
 🕙 **13:30** - 🍽️ **Lunch** at [O Mamma Mia](https://www.omammamia.com/){:target="_blank"} ([![📍](/assets/img/google-maps-16p.png)Local G](https://maps.app.goo.gl/GABkW4wtx6GvBXvTA){:target="_blank"})
 
-
 ### 📅 Saturday, 11.10.2025 (evening)
 
 **[![📍](/assets/img/google-maps-32p.png)Beach Club Higuerón](https://maps.app.goo.gl/Z57YycML1ffvRcDF9){:target="_blank"}**, Av. del Sol, 225, 29631 Benalmádena, Málaga
@@ -84,7 +83,7 @@ It will take place in **Málaga** from **10th to 12th October, 2025**. Multiple 
 
 ## 🏨 Accommodation
 
-For accommodation, we recommend staying at the [Higuerón Hotel](https://www.hilton.com/en/hotels/agprhqq-higueron-hotel-malaga/){:target="_blank"},  
+For accommodation, we recommend staying at the [Higuerón Hotel](https://www.hilton.com/en/hotels/agprhqq-higueron-hotel-malaga/){:target="_blank"},
 which will host much of the event and is offering special rates. Use this exclusive link to get a **20% discount**: _[link will be published soon]_
 
 ## 🏷️ Promotion for Partner Members
@@ -95,16 +94,45 @@ We offer **special discounts for members** of our partners [FIB&FIT](https://www
 <!-- Ticket Tailor: All events (https://app.tickettailor.com/widget-embed-codes) -->
 <div class="tt-widget"><div class="tt-widget-fallback"><p><a href="https://www.tickettailor.com/all-tickets/sporti/?ref=website_widget&show_search_filter=true&show_date_filter=true&show_sort=true" target="_blank">Click here to buy tickets</a><br /><small><a href="https://www.tickettailor.com?rf=wdg_252091" class="tt-widget-powered">Sell tickets online with Ticket Tailor</a></small></p></div><script src="https://cdn.tickettailor.com/js/widgets/min/widget.js" data-url="https://www.tickettailor.com/all-tickets/sporti/?ref=website_widget&show_search_filter=true&show_date_filter=true&show_sort=true" data-type="inline" data-inline-minimal="false" data-inline-show-logo="false" data-inline-bg-fill="true" data-inline-inherit-ref-from-url-param="" data-inline-ref="website_widget"></script></div>
 
-## 🎒 On The Day Prep
+## 🎒 On-the-Day Prep
 
-tbc
+Most activities will take place at the luxurious facilities of Higuerón Hotel, offering everything you need for a comfortable and premium experience.
+
+To help you make the most of the event, here are a few tips to keep in mind when preparing:
+
+🕶️🧢🧴 Bring **sun protection** - sunglasses, a hat, and sunscreen are essential for the 🚴 **rides** and the 🛥️ **Catamaran** trip.
+
+👙👗 Pack **swimmwear** or a **change of clothes** for post-ride activities, dining, or chilling at the resort.
+
+💶 Bring some **cash** or a card** for snacks, drinks, or small purchases on the 🛥️ **Catamaran**.
 
 ## ❔ FAQ
 
+<br>
 <details>
   <summary>Do I need to print my ticket?</summary>
-    As you wish. Print it, load the email on your phone, or take a screenshot. We just need to be able to scan your QR-Code.<br>
-    <br>
+  No need to print it unless you prefer to. We can scan your ticket directly from your phone — just make sure the QR code is visible, either in your email or as a screenshot.<br>
+  <br>
+</details>
+<details>
+  <summary>Can I take a shower after the rides?</summary>
+  There are showers at Higueron Hotel and Beach Club but not on the Catamaran. There is however public tiolets in Muelle Uno where you can freshen up.<br>
+  <br>
+</details>
+<details>
+  <summary>Are there lockers and changing rooms?</summary>
+  There are showers at Higueron Hotel and Beach Club but not on the Catamaran.<br>
+  <br>
+</details>
+<details>
+  <summary>What should I wear?</summary>
+  We recommend sportswear for the rides, and something comfortable or resort casual for the after-ride meals and events. You may want to bring swimwear for the Beach Club experience.<br>
+  <br>
+</details>
+<details>
+  <summary>What if I have dietary requirements?</summary>
+  We’ll do our best to accommodate! Please contact us in advance to let us know of any allergies or dietary preferences, especially if you plan to attend the lunch or dinner parties.<br>
+  <br>
 </details>
 
-Any further question? Feel free to reach out to us using one of the contact buttons bellow.
+💬 Still have questions? Feel free to reach out using the contact buttons below — we’re happy to help!
