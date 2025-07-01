@@ -28,26 +28,23 @@ It will take place in **Málaga** from **10th to 12th October, 2025**. Multiple 
 
 ### 📅 Friday, 10.10.2025
 
-**[![📍](/assets/img/google-maps-16p.png)Higuerón Hotel](https://maps.app.goo.gl/TFXyG9A6kBvdFKBs7){:target="_blank"}**, Curio Collection by Hilton, Av. del Higuerón, 48, 29640 Fuengirola, Málaga
+**[![📍](/assets/img/google-maps-32p.png)Higuerón Hotel](https://maps.app.goo.gl/TFXyG9A6kBvdFKBs7){:target="_blank"}**, Curio Collection by Hilton, Av. del Higuerón, 48, 29640 Fuengirola, Málaga
 
-🕖 **18:00**
-
+🕖 **18:00** - 
 🚴 2h **Ride** by the [Lago Pool](){:target="_blank"} with 
 [David](https://www.instagram.com/davidperezaquerreta){:target="_blank"}, 
 [João](https://www.instagram.com/ptjoaovalente){:target="_blank"}, 
 [Beppe](https://www.instagram.com/beppemeglio){:target="_blank"}, and 
 [Robbie](/p/trainers)
 
-🕘 **21:00**
-
+🕘 **21:00** - 
 🍽️🎉 **Dinner & Party** at [Lago Pool](){:target="_blank"} or [Infinity Rooftop Bar](https://www.instagram.com/infinity_rooftop?igsh=NGdlc3RpNnZ5em5n){:target="_blank"} depending on the number of applicants
 
 ### 📅 Saturday, 11.10.2025
 
-🕙 **10:00**
+**[![📍](/assets/img/google-maps-32p.png)Muelle Uno](https://maps.app.goo.gl/PPqABMhNpAQTNfpa9){:target="_blank"}**, P.º del Muelle Uno, 4, Distrito Centro, 29016 Málaga
 
-**[![📍](/assets/img/google-maps-16p.png)Muelle Uno](https://maps.app.goo.gl/PPqABMhNpAQTNfpa9){:target="_blank"}**, P.º del Muelle Uno, 4, Distrito Centro, 29016 Málaga
-
+🕙 **10:00** - 
 🛥️ **Catamaran** Roundtrip from 10:00 to 13:00
 
 🚴 **Ride** from 10:10 to 11:20 with 
@@ -63,33 +60,34 @@ It will take place in **Málaga** from **10th to 12th October, 2025**. Multiple 
 
 📢 Everybody on board at 10 o'clock!
 
-🕙 **13:30**
+🕙 **13:30** - 
+🍽️ **Lunch** at [O Mamma Mia](https://www.omammamia.com/){:target="_blank"} [![📍](/assets/img/google-maps-16p.png)Local G](https://maps.app.goo.gl/GABkW4wtx6GvBXvTA){:target="_blank"}
 
-**[![📍](/assets/img/google-maps-16p.png)Muelle Uno](https://maps.app.goo.gl/GABkW4wtx6GvBXvTA){:target="_blank"}**, P.º del Muelle Uno, Local G, Distrito Centro, 29016 Málaga
+**[![📍](/assets/img/google-maps-32p.png)Beach Club Higuerón](https://maps.app.goo.gl/Z57YycML1ffvRcDF9){:target="_blank"}**, Av. del Sol, 225, 29631 Benalmádena, Málaga
 
-🍽️ **Lunch** at [O Mamma Mia](https://www.omammamia.com/){:target="_blank"}
-
-🕖 **18:00**
-
-**[![📍](/assets/img/google-maps-16p.png)Beach Club Higuerón](https://maps.app.goo.gl/Z57YycML1ffvRcDF9){:target="_blank"}**, Av. del Sol, 225, 29631 Benalmádena, Málaga
-
+🕖 **18:00** - 
 🚴 2h **Ride** at the [Beach Club Higuerón](https://thebeachclubhigueron.com/){:target="_blank"} with 
 [David](https://www.instagram.com/davidperezaquerreta){:target="_blank"}, 
 [João](https://www.instagram.com/ptjoaovalente){:target="_blank"}, 
 [Beppe](https://www.instagram.com/beppemeglio){:target="_blank"}, and 
 [Robbie](/p/trainers)
 
-🕘 **21:00**
+**[![📍](/assets/img/google-maps-32p.png)Higuerón Hotel](https://maps.app.goo.gl/TFXyG9A6kBvdFKBs7){:target="_blank"}**, Curio Collection by Hilton, Av. del Higuerón, 48, 29640 Fuengirola, Málaga
 
-**[![📍](/assets/img/google-maps-16p.png)Higuerón Hotel](https://maps.app.goo.gl/TFXyG9A6kBvdFKBs7){:target="_blank"}**, Curio Collection by Hilton, Av. del Higuerón, 48, 29640 Fuengirola, Málaga
-
+🕘 **21:00** - 
 🍽️🎉 **Dinner & Party** at [Infinity Rooftop Bar](https://www.instagram.com/infinity_rooftop?igsh=NGdlc3RpNnZ5em5n){:target="_blank"}
 
 ### 📅 Sunday, 12.10.2025
 
-**[![📍](/assets/img/google-maps-16p.png)Sala Pilates FIT Reformer](https://maps.app.goo.gl/6xjDATnaRcxikdyH7){:target="_blank"}**, Av. 8 de Marzo, 29640 Fuengirola, Málaga
+**[![📍](/assets/img/google-maps-32p.png)Sala Pilates FIT Reformer](https://maps.app.goo.gl/6xjDATnaRcxikdyH7){:target="_blank"}**, Av. 8 de Marzo, 29640 Fuengirola, Málaga
 
-below the **[![📍](/assets/img/google-maps-16p.png)Tennis Center Higueron Resort](https://maps.app.goo.gl/x7zyfmfmD8hon7GK9){:target="_blank"}**
+below the **[![📍](/assets/img/google-maps-32p.png)Tennis Center Higueron Resort](https://maps.app.goo.gl/x7zyfmfmD8hon7GK9){:target="_blank"}**
+
+🕚 **11:00** - 
+🧘 **Pilates** with [Pedraza](https://www.instagram.com/begopedrazapilates){:target="_blank"}
+
+🕚 **12:00** - 
+🧘 **Pilates** with [Pedraza](https://www.instagram.com/begopedrazapilates){:target="_blank"}
 
 ## 🏨 Accommodation
 
