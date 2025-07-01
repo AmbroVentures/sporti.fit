@@ -111,7 +111,7 @@ To help you make the most of the event, here are a few tips to keep in mind when
 <br>
 <details>
   <summary>Do I need to print my ticket?</summary>
-  No need to print it unless you prefer to. We can scan your ticket directly from your phone — just make sure the QR code is visible, either in your email or as a screenshot.<br>
+  No need to print it unless you prefer to. We can scan your ticket directly from your phone — just make sure the QR code is visible, either in your email or as a screenshot. We also support Apple Wallet Passes.<br>
   <br>
 </details>
 <details>
