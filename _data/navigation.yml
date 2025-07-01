@@ -10,6 +10,8 @@ es:
   Impresión:
     - El Gym: "p/impressions/gym"
     - Eventos: "p/impressions/events"
+  Eventos:
+    - INVICTO: "p/eventos/invicto-2025"
   Shop: "p/shop"
 
 en:
