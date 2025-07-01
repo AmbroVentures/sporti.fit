@@ -104,11 +104,10 @@ To help you make the most of the event, here are a few tips to keep in mind when
 
 👙👗 Pack **swimmwear** or a **change of clothes** for post-ride activities, dining, or chilling at the resort.
 
-💶 Bring some **cash** or a card** for snacks, drinks, or small purchases on the 🛥️ **Catamaran**.
+💶 Bring some **cash** for snacks, drinks, or small purchases on the 🛥️ **Catamaran**.
 
 ## ❔ FAQ
 
-<br>
 <details>
   <summary>Do I need to print my ticket?</summary>
   No need to print it unless you prefer to. We can scan your ticket directly from your phone — just make sure the QR code is visible, either in your email or as a screenshot. We also support Apple Wallet Passes.<br>
@@ -121,7 +120,7 @@ To help you make the most of the event, here are a few tips to keep in mind when
 </details>
 <details>
   <summary>Are there lockers and changing rooms?</summary>
-  There are showers at Higueron Hotel and Beach Club but not on the Catamaran.<br>
+  There are changing rooms and lockers at Higueron Hotel for both internal and external guest, which may also be used when attending events at the Beach Club. The Catamaran, however, does not have changing rooms.<br>
   <br>
 </details>
 <details>
