@@ -41,5 +41,5 @@ it:
 #    - La Palestra: "p/galleria/gym"
 #    - Eventi: "p/galleria/events"
   Eventi:
-    - INVICTO: "p/events/invicto-2025"
+    - INVICTO: "p/eventi/invicto-2025"
   Shop: "p/shop"
