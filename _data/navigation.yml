@@ -27,7 +27,7 @@ en:
 #    - Events: "p/gallery/events"
   Events:
     - INVICTO: "p/events/invicto-2025"
-#  Shop: "p/shop"
+  Shop: "p/shop"
 
 it:
   Chi Siamo: 
@@ -42,4 +42,4 @@ it:
 #    - Eventi: "p/galleria/events"
   Eventi:
     - INVICTO: "p/events/invicto-2025"
-#  Shop: "p/shop"
+  Shop: "p/shop"
