@@ -28,66 +28,59 @@ It will take place in **Málaga** from **10th to 12th October, 2025**. Multiple 
 
 ### 📅 Friday, 10.10.2025
 
-**[![📍](/assets/img/google-maps-32p.png)Higuerón Hotel](https://maps.app.goo.gl/TFXyG9A6kBvdFKBs7){:target="_blank"}**, Curio Collection by Hilton, Av. del Higuerón, 48, 29640 Fuengirola, Málaga
+**[![📍](/assets/img/google-maps-32p.png)Higuerón Hotel](https://maps.app.goo.gl/TFXyG9A6kBvdFKBs7){:target="_blank"}**
+, Curio Collection by Hilton, Av. del Higuerón, 48, 29640 Fuengirola, Málaga
 
-🕖 **18:00** - 
-🚴 2h **Ride** by the [Lago Pool](){:target="_blank"} with 
-[David](https://www.instagram.com/davidperezaquerreta){:target="_blank"}, 
-[João](https://www.instagram.com/ptjoaovalente){:target="_blank"}, 
-[Beppe](https://www.instagram.com/beppemeglio){:target="_blank"}, and 
-[Robbie](/p/trainers)
+🕖 **18:00** - 🚴 2h **Ride** by the [Lago Pool](){:target="_blank"} with
+ [David](https://www.instagram.com/davidperezaquerreta){:target="_blank"},
+ [João](https://www.instagram.com/ptjoaovalente){:target="_blank"},
+ [Beppe](https://www.instagram.com/beppemeglio){:target="_blank"}, and
+ [Robbie](/p/trainers)
 
-🕘 **21:00** - 
-🍽️🎉 **Dinner & Party** at [Lago Pool](){:target="_blank"} or [Infinity Rooftop Bar](https://www.instagram.com/infinity_rooftop?igsh=NGdlc3RpNnZ5em5n){:target="_blank"} depending on the number of applicants
+🕘 **21:00** - 🍽️🎉 **Dinner & Party** at [Lago Pool](){:target="_blank"} or [Infinity Rooftop Bar](https://www.instagram.com/infinity_rooftop?igsh=NGdlc3RpNnZ5em5n){:target="_blank"} depending on the number of applicants
 
-### 📅 Saturday, 11.10.2025
+### 📅 Saturday, 11.10.2025 (morning)
 
 **[![📍](/assets/img/google-maps-32p.png)Muelle Uno](https://maps.app.goo.gl/PPqABMhNpAQTNfpa9){:target="_blank"}**, P.º del Muelle Uno, 4, Distrito Centro, 29016 Málaga
 
-🕙 **10:00** - 
-🛥️ **Catamaran** Roundtrip from 10:00 to 13:00
+🕙 **10:00** - 🛥️ **Catamaran** 3h Roundtrip
 
-🚴 **Ride** from 10:10 to 11:20 with 
-[Alex](https://www.instagram.com/alexfitnesslife){:target="_blank"}, 
-[Attilio](https://www.instagram.com/attilio.conte){:target="_blank"}, and 
-[Robbie](/p/trainers)
+🕙 **10:10** - 🚴 1h **Ride** with
+ [Alex](https://www.instagram.com/alexfitnesslife){:target="_blank"},
+ [Attilio](https://www.instagram.com/attilio.conte){:target="_blank"}, and
+ [Robbie](/p/trainers)
 
-🚴 **Ride** from 11:30 to 12:40 with 
-[David](https://www.instagram.com/davidperezaquerreta){:target="_blank"}, 
-[João](https://www.instagram.com/ptjoaovalente){:target="_blank"}, 
-[Beppe](https://www.instagram.com/beppemeglio){:target="_blank"}, and 
-[Robbie](/p/trainers)
+🕙 **11:30** - 🚴 1h **Ride** with
+ [David](https://www.instagram.com/davidperezaquerreta){:target="_blank"},
+ [João](https://www.instagram.com/ptjoaovalente){:target="_blank"},
+ [Beppe](https://www.instagram.com/beppemeglio){:target="_blank"}, and
+ [Robbie](/p/trainers)
 
 📢 Everybody on board at 10 o'clock!
 
-🕙 **13:30** - 
-🍽️ **Lunch** at [O Mamma Mia](https://www.omammamia.com/){:target="_blank"} [![📍](/assets/img/google-maps-16p.png)Local G](https://maps.app.goo.gl/GABkW4wtx6GvBXvTA){:target="_blank"}
+🕙 **13:30** - 🍽️ **Lunch** at [O Mamma Mia](https://www.omammamia.com/){:target="_blank"} ([![📍](/assets/img/google-maps-16p.png)Local G](https://maps.app.goo.gl/GABkW4wtx6GvBXvTA){:target="_blank"})
+
+
+### 📅 Saturday, 11.10.2025 (evening)
 
 **[![📍](/assets/img/google-maps-32p.png)Beach Club Higuerón](https://maps.app.goo.gl/Z57YycML1ffvRcDF9){:target="_blank"}**, Av. del Sol, 225, 29631 Benalmádena, Málaga
 
-🕖 **18:00** - 
-🚴 2h **Ride** at the [Beach Club Higuerón](https://thebeachclubhigueron.com/){:target="_blank"} with 
-[David](https://www.instagram.com/davidperezaquerreta){:target="_blank"}, 
-[João](https://www.instagram.com/ptjoaovalente){:target="_blank"}, 
-[Beppe](https://www.instagram.com/beppemeglio){:target="_blank"}, and 
-[Robbie](/p/trainers)
+🕖 **18:00** - 🚴 2h **Ride** at the [Beach Club Higuerón](https://thebeachclubhigueron.com/){:target="_blank"} with
+ [David](https://www.instagram.com/davidperezaquerreta){:target="_blank"},
+ [João](https://www.instagram.com/ptjoaovalente){:target="_blank"},
+ [Beppe](https://www.instagram.com/beppemeglio){:target="_blank"}, and
+ [Robbie](/p/trainers)
 
-**[![📍](/assets/img/google-maps-32p.png)Higuerón Hotel](https://maps.app.goo.gl/TFXyG9A6kBvdFKBs7){:target="_blank"}**, Curio Collection by Hilton, Av. del Higuerón, 48, 29640 Fuengirola, Málaga
-
-🕘 **21:00** - 
-🍽️🎉 **Dinner & Party** at [Infinity Rooftop Bar](https://www.instagram.com/infinity_rooftop?igsh=NGdlc3RpNnZ5em5n){:target="_blank"}
+🕘 **21:00** - 🍽️🎉 **Dinner & Party** at [Infinity Rooftop Bar](https://www.instagram.com/infinity_rooftop?igsh=NGdlc3RpNnZ5em5n){:target="_blank"} in **[![📍](/assets/img/google-maps-16p.png)Higuerón Hotel](https://maps.app.goo.gl/TFXyG9A6kBvdFKBs7){:target="_blank"}**
 
 ### 📅 Sunday, 12.10.2025
 
-**[![📍](/assets/img/google-maps-32p.png)Sala Pilates FIT Reformer](https://maps.app.goo.gl/6xjDATnaRcxikdyH7){:target="_blank"}**, Av. 8 de Marzo, 29640 Fuengirola, Málaga
+**[![📍](/assets/img/google-maps-32p.png)Sala Pilates FIT Reformer](https://maps.app.goo.gl/6xjDATnaRcxikdyH7){:target="_blank"}**, Av. 8 de Marzo, 29640 Fuengirola, Málaga  
+(below [![📍](/assets/img/google-maps-16p.png)Tennis Center Higueron Resort](https://maps.app.goo.gl/x7zyfmfmD8hon7GK9){:target="_blank"})
 
-below the **[![📍](/assets/img/google-maps-32p.png)Tennis Center Higueron Resort](https://maps.app.goo.gl/x7zyfmfmD8hon7GK9){:target="_blank"}**
+🕚 **11:00** - 🧘 **Pilates** with [Pedraza](https://www.instagram.com/begopedrazapilates){:target="_blank"}
 
-🕚 **11:00** - 
-🧘 **Pilates** with [Pedraza](https://www.instagram.com/begopedrazapilates){:target="_blank"}
-
-🕚 **12:00** - 
-🧘 **Pilates** with [Pedraza](https://www.instagram.com/begopedrazapilates){:target="_blank"}
+🕛 **12:00** - 🧘 **Pilates** with [Pedraza](https://www.instagram.com/begopedrazapilates){:target="_blank"}
 
 ## 🏨 Accommodation
 
@@ -102,11 +95,11 @@ We offer **special discounts for members** of our partners [FIB&FIT](https://www
 <!-- Ticket Tailor: All events (https://app.tickettailor.com/widget-embed-codes) -->
 <div class="tt-widget"><div class="tt-widget-fallback"><p><a href="https://www.tickettailor.com/all-tickets/sporti/?ref=website_widget&show_search_filter=true&show_date_filter=true&show_sort=true" target="_blank">Click here to buy tickets</a><br /><small><a href="https://www.tickettailor.com?rf=wdg_252091" class="tt-widget-powered">Sell tickets online with Ticket Tailor</a></small></p></div><script src="https://cdn.tickettailor.com/js/widgets/min/widget.js" data-url="https://www.tickettailor.com/all-tickets/sporti/?ref=website_widget&show_search_filter=true&show_date_filter=true&show_sort=true" data-type="inline" data-inline-minimal="false" data-inline-show-logo="false" data-inline-bg-fill="true" data-inline-inherit-ref-from-url-param="" data-inline-ref="website_widget"></script></div>
 
-## On The Day Prep
+## 🎒 On The Day Prep
 
 tbc
 
-## FAQ
+## ❔ FAQ
 
 <details>
   <summary>Do I need to print my ticket?</summary>
