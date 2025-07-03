@@ -59,7 +59,7 @@ L'evento si svolgerà a **Málaga** dal **10 al 12 ottobre 2025**. Saranno dispo
 
 📢 Tutti a bordo alle 10 in punto!
 
-🕙 **13:30** - 🍽️ **Pranzo** da [O Mamma Mia](https://www.omammamia.com/){:target="_blank"} ([![📍](/assets/img/google-maps-16p.png)Local G](https://maps.app.goo.gl/GABkW4wtx6GvBXvTA){:target="_blank"})
+🕙 **13:30** - 🍽️ **Pranzo** da [O Mamma Mia](https://www.instagram.com/omammamia_malaga?igsh=b3o0c25vdXRiazBm){:target="_blank"} ([![📍](/assets/img/google-maps-16p.png)Local G](https://maps.app.goo.gl/GABkW4wtx6GvBXvTA){:target="_blank"})
 
 ### 📅 Sabato, 11.10.2025 (sera)
 
@@ -85,7 +85,7 @@ L'evento si svolgerà a **Málaga** dal **10 al 12 ottobre 2025**. Saranno dispo
 ## 🏨 Alloggio
 
 Per l'alloggio, consigliamo di soggiornare all'[Higuerón Hotel](https://www.hilton.com/en/hotels/agprhqq-higueron-hotel-malaga/){:target="_blank"},
-che ospiterà gran parte dell'evento e offre tariffe speciali. Usa questo link esclusivo per ottenere uno **sconto del 20%**: _[il link sarà pubblicato a breve]_
+che ospiterà gran parte dell'evento e offre tariffe speciali. Usa questo codice durante la prenotazione per ottenere uno **sconto del 20%**: INVICT
 
 ## 🏷️ Promozione per Membri Partner
 

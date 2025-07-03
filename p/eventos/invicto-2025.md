@@ -58,7 +58,7 @@ El evento tendrá lugar en **Málaga** del **10 al 12 de octubre de 2025**. Habr
 
 📢 ¡Todos a bordo a las 10 en punto!
 
-🕙 **13:30** - 🍽️ **Almuerzo** en [O Mamma Mia](https://www.omammamia.com/){:target="_blank"} ([![📍](/assets/img/google-maps-16p.png)Local G](https://maps.app.goo.gl/GABkW4wtx6GvBXvTA){:target="_blank"})
+🕙 **13:30** - 🍽️ **Almuerzo** en [O Mamma Mia](https://www.instagram.com/omammamia_malaga?igsh=b3o0c25vdXRiazBm){:target="_blank"} ([![📍](/assets/img/google-maps-16p.png)Local G](https://maps.app.goo.gl/GABkW4wtx6GvBXvTA){:target="_blank"})
 
 ### 📅 Sábado, 11.10.2025 (tarde)
 
@@ -84,7 +84,7 @@ El evento tendrá lugar en **Málaga** del **10 al 12 de octubre de 2025**. Habr
 ## 🏨 Alojamiento
 
 Para el alojamiento, recomendamos quedarse en el [Higuerón Hotel](https://www.hilton.com/en/hotels/agprhqq-higueron-hotel-malaga/){:target="_blank"},
-que será sede de gran parte del evento y ofrece tarifas especiales. Usa este enlace exclusivo para obtener un **20% de descuento**: _[el enlace se publicará próximamente]_
+que será sede de gran parte del evento y ofrece tarifas especiales. Usa este código durante tu reserva para obtener un **20% de descuento**: INVICT
 
 ## 🏷️ Promoción para Miembros Asociados
 
