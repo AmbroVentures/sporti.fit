@@ -4,27 +4,11 @@ layout: page
 
 {{ content }}
 
-{% comment %} Include both current language and default language {% endcomment %}
-{% if current_lang == site.default_lang %}
-  {% assign language_posts = site.posts | where: "lang", current_lang %}
-{% else %}
-  {% assign current_lang_posts = site.posts | where: "lang", current_lang %}
-  {% assign default_lang_posts = site.posts | where: "lang", site.default_lang %}
-  {% assign language_posts = current_lang_posts | concat: default_lang_posts %}
-{% endif %}
-
-{% comment %} Group posts by ref to get unique posts (prioritize current language) {% endcomment %}
-{% assign unique_posts = language_posts | group_by: "ref" %}
-{% assign filtered_posts = "" | split: "" %}
-{% for group in unique_posts %}
-  {% comment %} Prioritize current language over default language {% endcomment %}
-  {% assign current_lang_post = group.items | where: "lang", current_lang | first %}
-  {% if current_lang_post %}
-    {% assign filtered_posts = filtered_posts | push: current_lang_post %}
-  {% else %}
-    {% assign filtered_posts = filtered_posts | push: group.items.first %}
-  {% endif %}
-{% endfor %}
+{% comment %} Multilanguage Support {% endcomment %}
+{% assign current_lang = page.lang | default: site.default_lang %}
+{% assign current_lang_posts = site.posts | where: "lang", current_lang %}
+{% assign untranslated_posts = site.posts | where_exp: "post", "post.ref == nil or post.ref == empty" %}
+{% assign posts = current_lang_posts | concat: untranslated_posts %}
 
 <!-- role="list" needed so that `list-style: none` in Safari doesn't remove the list semantics -->
 <ul class="posts-list list-unstyled" role="list">
