@@ -16,7 +16,7 @@
           <span class="dropdown-item active">{{ lang_dd }}</span>
         {% else %}
           {% assign lang_page = translations | where:"lang", lang | first %}
-          {% assign lang_url = lang_page.url | default: default_page.url %}
+          {% assign lang_url = lang_page.permalink | default: lang_page.url | default: default_page.url %}
           <a class="dropdown-item" href="{{ lang_url | relative_url }}">{{ lang_dd }}</a>
         {% endif %}
       {% endfor %}
