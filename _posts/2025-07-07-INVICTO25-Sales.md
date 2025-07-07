@@ -1,57 +1,57 @@
 ---
 layout: post
-title: "INVICTO Sales Are Live!"
-subtitle: "Exclusive Indoor Cycling Event in Málaga - October 10-12, 2025"
+title: "¡Las Ventas de INVICTO Están Activas!"
+subtitle: "Evento Exclusivo de Ciclismo Indoor en Málaga - 10-12 Octubre 2025"
 cover-img: /assets/img/cover-invicto.jpg
 thumbnail-img: /assets/img/thumb-invicto-spain-bw.png
 share-img: /assets/img/thumb-invicto-spain-2025.jpg
+ref: invicto25sales
 tags: [event, invicto]
 author: Robert Ambrosini
-excerpt: "It's here! INVICTO 2025 tickets are now available. Don't miss this exclusive 3-day indoor cycling experience in stunning Málaga locations."
+excerpt: "¡Ya está aquí! Las entradas para INVICTO 2025 ya están disponibles. No te pierdas esta experiencia exclusiva de 3 días de ciclismo indoor en impresionantes localizaciones de Málaga."
 ---
 
-## 🎉 The Wait Is Over - INVICTO 2025 Tickets Are Now Available!
+## 🎉 ¡La Espera Ha Terminado - Las Entradas de INVICTO 2025 Ya Están Disponibles!
 
-**Get ready to experience indoor cycling like never before!** After much anticipation, we're thrilled to announce that **INVICTO 2025 ticket sales are officially live**. This isn't just another cycling event – it's a premium 3-day experience that will redefine what you thought was possible with indoor cycling.
+**¡Prepárate para experimentar el ciclismo indoor como nunca antes!** Después de mucha expectación, nos emociona anunciar que **las ventas de entradas para INVICTO 2025 están oficialmente activas**. Esto no es solo otro evento de ciclismo – es una experiencia premium de 3 días que redefinirá lo que pensabas que era posible con el ciclismo indoor.
 
-### 🌟 What Makes INVICTO Special?
+### 🌟 ¿Qué Hace Especial a INVICTO?
 
-From **October 10-12, 2025**, join us in stunning **Málaga** for rides in absolutely breathtaking locations:
-- 🏖️ **Beachside sessions** with ocean views
-- 🛥️ **Catamaran cycling** on the Mediterranean  
-- 🏨 **Poolside rides** at a luxury 5-star resort
-- 🌅 **Rooftop experiences** with panoramic city views
+Del **10 al 12 de octubre de 2025**, únete a nosotros en la impresionante **Málaga** para entrenamientos en localizaciones absolutamente espectaculares:
+- 🏖️ **Sesiones junto a la playa** con vistas al océano
+- 🛥️ **Ciclismo en catamarán** en el Mediterráneo
+- 🏨 **Entrenamientos junto a la piscina** en un resort de lujo de 5 estrellas
+- 🌅 **Experiencias en la azotea** con vistas panorámicas de la ciudad
 
-Every intense ride is followed by optional lunch or dinner celebrations – because the reward is part of the journey.
+Cada entrenamiento intenso va seguido de celebraciones opcionales de almuerzo o cena – porque la recompensa es parte del viaje.
 
-### 🎟️ Secure Your Spot Now
+### 🎟️ Asegura Tu Plaza Ahora
 
-**⚠️ Limited tickets available!** INVICTO is designed as an exclusive experience, and spaces are filling up fast.
+**⚠️ ¡Entradas limitadas disponibles!** INVICTO está diseñado como una experiencia exclusiva, y las plazas se están llenando rápidamente.
 
-**[🎫 Get Your Tickets Here](/p/eventos/invicto-2025)**
+**[🎫 Consigue Tus Entradas Aquí](/p/eventos/invicto-2025)**
 
-## 🔥 Coming Soon: Deep Dive Content
+## 🔥 Próximamente: Contenido en Profundidad
 
-Over the next few days, we'll be releasing **fascinating insights about each ride and activity** planned for INVICTO 2025. Get ready for:
+Durante los próximos días, estaremos lanzando **información fascinante sobre cada entrenamiento y actividad** planificada para INVICTO 2025. Prepárate para:
 
-- **Trainer spotlights** featuring our international instructor lineup
-- **Location previews** of each unique cycling venue
-- **Ride breakdowns** with details on session formats, intensity levels, and how each ride is curated for maximum energy and fun
+- **Perfiles de entrenadores** presentando nuestro lineup internacional de instructores
+- **Vistas previas de localizaciones** de cada lugar único de ciclismo
+- **Detalles de entrenamientos** con información sobre formatos de sesión, niveles de intensidad, y cómo cada entrenamiento está cuidadosamente diseñado para máxima energía y diversión
 
-## 🚴‍♀️ Why INVICTO Will Transform Your Cycling Experience
+## 🚴‍♀️ Por Qué INVICTO Transformará Tu Experiencia de Ciclismo
 
-This isn't just about the workout – it's about the complete experience. Whether you're spinning with ocean waves as your backdrop or pushing your limits on a luxury catamaran, every moment is designed to inspire and energize.
+Esto no se trata solo del entrenamiento – se trata de la experiencia completa. Ya sea pedaleando con las olas del océano como fondo o superando tus límites en un catamarán de lujo, cada momento está diseñado para inspirar y energizar.
 
-**Ready to join the INVICTO community?** Your spot in this exclusive event is just a click away.
+**¿Listo para unirte a la comunidad INVICTO?** Tu plaza en este evento exclusivo está a solo un clic de distancia.
 
-### 🎫 Book Your INVICTO Experience Now
+### 🎫 Reserva Tu Experiencia INVICTO Ahora
 <!-- Ticket Tailor: All events (https://app.tickettailor.com/widget-embed-codes) -->
 <div class="tt-widget"><div class="tt-widget-fallback"><p><a href="https://www.tickettailor.com/all-tickets/sporti/?ref=website_widget&show_search_filter=true&show_date_filter=true&show_sort=true" target="_blank">Click here to buy tickets</a><br /><small><a href="https://www.tickettailor.com?rf=wdg_252091" class="tt-widget-powered">Sell tickets online with Ticket Tailor</a></small></p></div><script src="https://cdn.tickettailor.com/js/widgets/min/widget.js" data-url="https://www.tickettailor.com/all-tickets/sporti/?ref=website_widget&show_search_filter=true&show_date_filter=true&show_sort=true" data-type="inline" data-inline-minimal="false" data-inline-show-logo="false" data-inline-bg-fill="true" data-inline-inherit-ref-from-url-param="" data-inline-ref="website_widget"></script></div>
 
 _[or learn more about it](/p/eventos/invicto-2025)_
 
-**¡Te esperamos para una experiencia inolvidable!**
-
+<p style="text-align: center;">¡Te esperamos para una experiencia inolvidable!</p>
 <div style="position: relative;">
   <video autoplay loop muted playsinline controls style="text-align: center; width:100%;">
     <source src="{{ '/assets/vid/invicto-trailer-1.mp4' | relative_url }}" type="video/mp4">
@@ -61,4 +61,4 @@ _[or learn more about it](/p/eventos/invicto-2025)_
 
 ---
 
-_Follow us on social media for daily updates and sneak peeks of what's coming._
+_Síguenos en redes sociales para actualizaciones diarias y adelantos de lo que está por venir._

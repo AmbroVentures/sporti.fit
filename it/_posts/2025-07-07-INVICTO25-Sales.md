@@ -5,6 +5,8 @@ subtitle: "Evento Esclusivo di Ciclismo Indoor a Málaga - 10-12 Ottobre 2025"
 cover-img: /assets/img/cover-invicto.jpg
 thumbnail-img: /assets/img/thumb-invicto-spain-bw.png
 share-img: /assets/img/thumb-invicto-spain-2025.jpg
+ref: invicto25sales
+lang: it
 tags: [event, invicto]
 author: Robert Ambrosini
 excerpt: "È arrivato! I biglietti per INVICTO 2025 sono ora disponibili. Non perdere questa esperienza esclusiva di 3 giorni di ciclismo indoor in location mozzafiato di Málaga."
@@ -50,8 +52,7 @@ Non si tratta solo dell'allenamento – si tratta dell'esperienza completa. Che 
 
 _[o scopri di più sull'evento](/it/p/eventi/invicto-2025)_
 
-**¡Te esperamos para una experiencia inolvidable!**
-
+<p style="text-align: center;">¡Te esperamos para una experiencia inolvidable!</p>
 <div style="position: relative;">
   <video autoplay loop muted playsinline controls style="text-align: center; width:100%;">
     <source src="{{ '/assets/vid/invicto-trailer-1.mp4' | relative_url }}" type="video/mp4">
