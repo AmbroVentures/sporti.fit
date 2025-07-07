@@ -2,12 +2,12 @@
 layout: post
 title: "INVICTO Sales Are Live!"
 subtitle: "Exclusive Indoor Cycling Event in Málaga - October 10-12, 2025"
-cover-img: /assets/img/cover-invicto.jpg
-thumbnail-img: /assets/img/thumb-invicto-spain-bw.png
-share-img: /assets/img/thumb-invicto-spain-2025.jpg
 ref: invicto25sales
 lang: en
 permalink: /en/2025-07-07-INVICTO25-Sales/
+cover-img: /assets/img/cover-invicto.jpg
+thumbnail-img: /assets/img/thumb-invicto-spain-bw.png
+share-img: /assets/img/thumb-invicto-spain-bw.png
 tags: [event, invicto]
 author: Robert Ambrosini
 excerpt: "It's here! INVICTO 2025 tickets are now available. Don't miss this exclusive 3-day indoor cycling experience in stunning Málaga locations."

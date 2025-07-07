@@ -2,6 +2,7 @@
 layout: post
 title: El método SPORTI de ciclismo al interior
 subtitle: Un Introducción
+ref: untranslated
 cover-img: /assets/img/path.jpg
 thumbnail-img: /assets/img/logo.jpg
 share-img: /assets/img/path.jpg
