@@ -1,6 +1,6 @@
 <div class="language-switcher">
   {% assign lkp_ref = page.ref | default: 'index' %}
-  {% assign translations = site.pages | where:"ref", lkp_ref | sort: 'lang' %}
+  {% assign translations = site.pages | concat: site.posts | where:"ref", lkp_ref | sort: 'lang' %}
   {% assign default_page = translations | first %}
   {% assign current_lang = page.lang | default: site.default_lang %}
   {% assign locales = site.data.locales %}
