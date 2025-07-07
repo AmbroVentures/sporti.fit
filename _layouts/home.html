@@ -4,7 +4,20 @@ layout: page
 
 {{ content }}
 
-{% assign posts = paginator.posts | default: site.posts %}
+{% comment %} Get current page language {% endcomment %}
+{% assign current_lang = page.lang | default: site.default_lang %}
+
+{% comment %} Filter posts by language, show only posts that match current language {% endcomment %}
+{% assign language_posts = site.posts | where: "lang", current_lang %}
+
+{% comment %} Group posts by ref to get unique posts (translations) {% endcomment %}
+{% assign unique_posts = language_posts | group_by: "ref" %}
+{% assign filtered_posts = "" | split: "" %}
+{% for group in unique_posts %}
+  {% assign filtered_posts = filtered_posts | push: group.items.first %}
+{% endfor %}
+
+{% assign posts = paginator.posts | default: filtered_posts %}
 
 <!-- role="list" needed so that `list-style: none` in Safari doesn't remove the list semantics -->
 <ul class="posts-list list-unstyled" role="list">
