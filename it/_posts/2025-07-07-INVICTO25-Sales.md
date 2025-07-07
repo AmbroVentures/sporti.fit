@@ -7,6 +7,7 @@ thumbnail-img: /assets/img/thumb-invicto-spain-bw.png
 share-img: /assets/img/thumb-invicto-spain-2025.jpg
 ref: invicto25sales
 lang: it
+permalink: /it/2025-07-07-INVICTO25-Sales/
 tags: [event, invicto]
 author: Robert Ambrosini
 excerpt: "È arrivato! I biglietti per INVICTO 2025 sono ora disponibili. Non perdere questa esperienza esclusiva di 3 giorni di ciclismo indoor in location mozzafiato di Málaga."
