@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "INVICTO Sales Are Live!"
-subtitle: "Exclusive Indoor Cycling Event in Málaga - October 10-12, 2025"
+title: "Le Vendite di INVICTO Sono Attive!"
+subtitle: "Evento Esclusivo di Ciclismo Indoor a Málaga - 10-12 Ottobre 2025"
 cover-img: /assets/img/cover-invicto.jpg
 thumbnail-img: /assets/img/thumb-invicto-spain-bw.png
 share-img: /assets/img/thumb-invicto-spain-2025.jpg
