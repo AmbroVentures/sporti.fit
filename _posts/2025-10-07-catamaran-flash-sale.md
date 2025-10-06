@@ -1,13 +1,13 @@
 ---
 layout: post
-title: "⛵ Última Llamada: Catamarán 30% DESCUENTO"
+title: "Última Llamada: Catamarán 30% DESCUENTO"
 subtitle: "Solo 48 Horas - Pedalea en el Mediterráneo Este Sábado"
-ref: catamaran-flash-2025
+ref: catamaran-flash-sale
 lang: es
 cover-img: /assets/img/cover-invicto.jpg
 thumbnail-img: /assets/img/thumb-invicto-catamaran.jpg
 share-img: /assets/img/thumb-invicto-catamaran.jpg
-tags: [evento, invicto, oferta-flash]
+tags: [event, invicto, flash-sale]
 author: Robert Ambrosini
 excerpt: "El Mediterráneo te está llamando. Nuestra experiencia INVICTO más exclusiva aún tiene plazas limitadas - y durante las próximas 48 horas, con 30% de descuento."
 ---
