@@ -4,6 +4,7 @@ title: "Final Call: Catamaran Experience 30% OFF"
 subtitle: "48 Hours Only - Cycle on the Mediterranean This Saturday"
 ref: catamaran-flash-sale
 lang: en
+permalink: /en/2025-10-06-catamaran-flash-sale/
 cover-img: /assets/img/cover-invicto.jpg
 thumbnail-img: /assets/img/thumb-invicto-catamaran.jpg
 share-img: /assets/img/thumb-invicto-catamaran.jpg
