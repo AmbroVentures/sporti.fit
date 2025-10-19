@@ -8,7 +8,7 @@ es:
     - Video Clases: "p/clases/video"
 #  Localidad: "p/location"
   Impresión:
-#    - El Gym: "p/impressions/gym"
+    - El Gym: "p/impressions/gym"
     - Eventos: "p/impressions/events"
   Eventos:
     - INVICTO: "p/eventos/invicto-2025"
@@ -22,9 +22,9 @@ en:
 #    - In-Person Classes: "p/classes/in-person"
 #    - Video Classes: "p/classes/video"
 #  Location: "p/location"
-#  Gallery:
+  Gallery:
 #    - The Gym: "p/gallery/gym"
-#    - Events: "p/gallery/events"
+    - Events: "p/gallery/events"
   Events:
     - INVICTO: "p/events/invicto-2025"
   Shop: "p/shop"
@@ -37,9 +37,9 @@ it:
 #    - Corsi in Presenza: "p/corsi/presenza"
 #    - Video Corsi: "p/corsi/video"
 #  Località: "p/location"
-#  Galleria:
-#    - La Palestra: "p/galleria/gym"
-#    - Eventi: "p/galleria/events"
+  Galleria:
+#    - La Palestra: "p/gallery/gym"
+    - Eventi: "p/gallery/events"
   Eventi:
     - INVICTO: "p/eventi/invicto-2025"
   Shop: "p/shop"

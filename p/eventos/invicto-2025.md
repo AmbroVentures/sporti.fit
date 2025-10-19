@@ -20,7 +20,7 @@ ref: invicto25
 En esta página encontrarás todos los detalles e información actualizada sobre el evento.
 
 {: .box-note}
-**Nota:** Este evento ha finalizado. Para estar al tanto de nuestros próximos eventos, síguenos en las redes sociales.
+**Evento concluido:** Vea fotos y vídeos de Invicto en nuestra [galería de eventos](/p/impressions/events). Síguenos en las redes sociales para estar al día de futuros eventos.
 
 <!-- Ticket Tailor: All events (https://app.tickettailor.com/widget-embed-codes) -->
 <div class="tt-widget"><div class="tt-widget-fallback"><p><a href="https://www.tickettailor.com/all-tickets/sporti/?ref=website_widget&show_search_filter=true&show_date_filter=true&show_sort=true" target="_blank">Haz clic aquí para comprar entradas</a><br /><small><a href="https://www.tickettailor.com?rf=wdg_252091" class="tt-widget-powered">Vende entradas online con Ticket Tailor</a></small></p></div><script src="https://cdn.tickettailor.com/js/widgets/min/widget.js" data-url="https://www.tickettailor.com/all-tickets/sporti/?ref=website_widget&show_search_filter=true&show_date_filter=true&show_sort=true" data-type="inline" data-inline-minimal="false" data-inline-show-logo="false" data-inline-bg-fill="true" data-inline-inherit-ref-from-url-param="" data-inline-ref="website_widget"></script></div>
