@@ -50,7 +50,7 @@ A Sporti, siamo orgogliosi di ospitare eventi straordinari che ispirano ed educa
 ## INVICTO
 
 INVICTO è stato un evento epico che ha riunito atleti e appassionati di fitness per un'esperienza indimenticabile. Rivivi l'intensità, la passione e i momenti salienti di questa giornata speciale.  
-[→ Maggiori informazioni su INVICTO](it/p/eventi/invicto-2025)
+[→ Maggiori informazioni su INVICTO](/it/p/eventi/invicto-2025)
 
 {% include gallery %}
 

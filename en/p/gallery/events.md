@@ -50,7 +50,7 @@ At Sporti, we take pride in hosting outstanding events that inspire and educate.
 ## INVICTO
 
 INVICTO was an epic event that brought together athletes and fitness enthusiasts for an unforgettable experience. Relive the intensity, passion, and highlights of this special day.  
-[→ More information about INVICTO](en/p/events/invicto-2025)
+[→ More information about INVICTO](/en/p/events/invicto-2025)
 
 {% include gallery %}
 
