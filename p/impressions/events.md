@@ -49,10 +49,13 @@ En Sporti, nos enorgullece ser anfitriones de eventos destacados que inspiran y 
 
 ## INVICTO
 
-INVICTO fue un evento épico que reunió a atletas y entusiastas del fitness para una experiencia inolvidable. Revive la intensidad, la pasión y los momentos destacados de esta jornada especial.  
-[→ Más información sobre INVICTO](/p/eventos/invicto-2025)
+INVICTO fue un evento épico que reunió a atletas y entusiastas del fitness para una experiencia inolvidable. Revive la intensidad, la pasión y los momentos destacados de esta jornada especial.
 
 {% include gallery %}
+
+**¿Te gusta lo que ves?** Echa un vistazo a la [página del evento INVICTO](/p/eventos/invicto-2025) para obtener más detalles y mantente atento a futuras ediciones.
+
+---
 
 ## BIC - Biking Instructor Certification
 
