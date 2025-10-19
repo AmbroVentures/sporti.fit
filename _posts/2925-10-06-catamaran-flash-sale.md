@@ -4,7 +4,6 @@ title: "Última Llamada: Catamarán 30% DESCUENTO"
 subtitle: "Solo 48 Horas - Pedalea en el Mediterráneo Este Sábado"
 ref: catamaran-flash-sale
 lang: es
-permalink: /2025-10-06-catamaran-flash-sale/
 cover-img: /assets/img/cover-invicto.jpg
 thumbnail-img: /assets/img/thumb-invicto-catamaran.jpg
 share-img: /assets/img/thumb-invicto-catamaran.jpg

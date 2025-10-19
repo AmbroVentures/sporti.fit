@@ -4,11 +4,11 @@ es:
     - Sporti: "p/about"
     - Entrenadores: "p/trainers"
   Clases:
-    - Clases Presenciales: "p/clases/presenciales"
+#    - Clases Presenciales: "p/clases/presenciales"
     - Video Clases: "p/clases/video"
-  Localidad: "p/location"
+#  Localidad: "p/location"
   Impresión:
-    - El Gym: "p/impressions/gym"
+#    - El Gym: "p/impressions/gym"
     - Eventos: "p/impressions/events"
   Eventos:
     - INVICTO: "p/eventos/invicto-2025"
