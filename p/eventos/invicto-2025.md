@@ -1,7 +1,7 @@
 ---
 layout: page
 title: INVICTO 2025
-subtitle: Próximo Evento
+subtitle: Información del Evento
 cover-img: /assets/img/cover-invicto.jpg
 ref: invicto25
 ---
@@ -18,6 +18,9 @@ ref: invicto25
 **INVICTO** es un evento exclusivo de 3 días que lleva el ciclismo indoor al siguiente nivel — con entrenamientos en ubicaciones inolvidables como la playa, en un catamarán, o junto a la piscina de un resort de 5 estrellas. Quienes pedalean duro merecen una recompensa adecuada. Por eso cada entrenamiento va seguido de un almuerzo o cena opcional — porque la celebración es parte de la experiencia.
 
 En esta página encontrarás todos los detalles e información actualizada sobre el evento.
+
+{: .box-note}
+**Nota:** Este evento ha finalizado. Para estar al tanto de nuestros próximos eventos, síguenos en las redes sociales.
 
 <!-- Ticket Tailor: All events (https://app.tickettailor.com/widget-embed-codes) -->
 <div class="tt-widget"><div class="tt-widget-fallback"><p><a href="https://www.tickettailor.com/all-tickets/sporti/?ref=website_widget&show_search_filter=true&show_date_filter=true&show_sort=true" target="_blank">Haz clic aquí para comprar entradas</a><br /><small><a href="https://www.tickettailor.com?rf=wdg_252091" class="tt-widget-powered">Vende entradas online con Ticket Tailor</a></small></p></div><script src="https://cdn.tickettailor.com/js/widgets/min/widget.js" data-url="https://www.tickettailor.com/all-tickets/sporti/?ref=website_widget&show_search_filter=true&show_date_filter=true&show_sort=true" data-type="inline" data-inline-minimal="false" data-inline-show-logo="false" data-inline-bg-fill="true" data-inline-inherit-ref-from-url-param="" data-inline-ref="website_widget"></script></div>
