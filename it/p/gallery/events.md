@@ -11,16 +11,16 @@ css:
   - assets/css/magnific-popup.css
   - assets/css/gallery.css
 gallery:
-  - url:        assets/img/event/invicto/4cce09aa-178b-46c8-80a6-68b576b2cffe.jpg
-    image_path: assets/img/event/invicto/4cce09aa-178b-46c8-80a6-68b576b2cffe.jpg
+  - url:        assets/img/event/invicto/4cce09aa-178b-46c8-80a6-68b576b2cffe.JPG
+    image_path: assets/img/event/invicto/4cce09aa-178b-46c8-80a6-68b576b2cffe.JPG
     alt:   "INVICTO 2025"
     title: "INVICTO 2025"
-  - url:        assets/img/event/invicto/6d4cb836-7a0b-40f8-a8db-40c7bf29060f.jpg
-    image_path: assets/img/event/invicto/6d4cb836-7a0b-40f8-a8db-40c7bf29060f.jpg
+  - url:        assets/img/event/invicto/6d4cb836-7a0b-40f8-a8db-40c7bf29060f.JPG
+    image_path: assets/img/event/invicto/6d4cb836-7a0b-40f8-a8db-40c7bf29060f.JPG
     alt:   "INVICTO 2025"
     title: "INVICTO 2025"
-  - url:        assets/img/event/invicto/7e1cec48-5099-4e2c-ad81-3d54da03421d.jpg
-    image_path: assets/img/event/invicto/7e1cec48-5099-4e2c-ad81-3d54da03421d.jpg
+  - url:        assets/img/event/invicto/7e1cec48-5099-4e2c-ad81-3d54da03421d.JPG
+    image_path: assets/img/event/invicto/7e1cec48-5099-4e2c-ad81-3d54da03421d.JPG
     alt:   "INVICTO 2025"
     title: "INVICTO 2025"
   - url:        assets/img/event/invicto/13b62da6-aad8-4345-9662-0127e7c29a7a.JPG
