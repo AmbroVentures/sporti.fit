@@ -4,7 +4,7 @@ title: "Agotamiento mental vs. sobreentrenamiento"
 
 ref: bornout-x-overtrain
 lang: es
-cover-img: /assets/img/bornout-x-overtrain.jpeg
+
 thumbnail-img: /assets/img/bornout-x-overtrain.jpeg
 share-img: /assets/img/bornout-x-overtrain.jpeg
 tags: [blog]
@@ -52,3 +52,5 @@ Ambos requieren atención y descanso. Sin embargo, mientras el agotamiento menta
 ## Recuerda
 
 Entrenar más no siempre significa mejorar más. El descanso, la recuperación y la motivación también forman parte del entrenamiento.
+
+![Flyer]({{ '/assets/img/bornout-x-overtrain.jpeg' | relative_url }})
